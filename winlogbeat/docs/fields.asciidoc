@@ -1,6 +1,6 @@
 
 ////
-This file is generated! See _meta/fields.yml and scripts/generate_field_docs.py
+This file is generated! See _meta/fields.yml and scripts/generate_fields_docs.py
 ////
 
 [[exported-fields]]
@@ -12,7 +12,7 @@ This file is generated! See _meta/fields.yml and scripts/generate_field_docs.py
 This document describes the fields that are exported by Winlogbeat. They are
 grouped in the following categories:
 
-* <<exported-fields-beat>>
+* <<exported-fields-beat-common>>
 * <<exported-fields-cloud>>
 * <<exported-fields-docker-processor>>
 * <<exported-fields-ecs>>
@@ -21,10 +21,12 @@ grouped in the following categories:
 * <<exported-fields-jolokia-autodiscover>>
 * <<exported-fields-kubernetes-processor>>
 * <<exported-fields-process>>
+* <<exported-fields-security>>
+* <<exported-fields-sysmon>>
 * <<exported-fields-winlog>>
 
 --
-[[exported-fields-beat]]
+[[exported-fields-beat-common]]
 == Beat fields
 
 Contains common beat fields available in all event types.
@@ -114,9 +116,25 @@ Metadata from cloud providers added by the add_cloud_metadata processor.
 +
 --
 Name of the project in Google Cloud.
+<<<<<<< HEAD
 
 
 example: project-x
+=======
+
+
+example: project-x
+
+--
+
+*`cloud.image.id`*::
++
+--
+Image ID for the cloud instance.
+
+
+example: ami-abcd1234
+>>>>>>> upstream/master
 
 --
 
@@ -358,7 +376,7 @@ example: 6.0.0-rc2
 === client
 
 A client is defined as the initiator of a network connection for events regarding sessions, connections, or bidirectional flow records.
-For TCP events, the client is the initiator of the TCP connection that sends the SYN packet(s). For other protocols, the client is generally the initiator or requestor in the network transaction. Some systems use the term "originator" to refer the client in TCP connections. The client fields describe details about the system acting as the client in the network event. Client fields are usually populated in conjunction with server fields.  Client fields are generally not populated for packet-level events.
+For TCP events, the client is the initiator of the TCP connection that sends the SYN packet(s). For other protocols, the client is generally the initiator or requestor in the network transaction. Some systems use the term "originator" to refer the client in TCP connections. The client fields describe details about the system acting as the client in the network event. Client fields are usually populated in conjunction with server fields. Client fields are generally not populated for packet-level events.
 Client / server representations can add semantic context to an exchange, which is helpful to visualize the data in certain situations. If your context falls in that category, you should still ensure that source and destination are filled appropriately.
 
 
@@ -518,6 +536,13 @@ example: 12
 +
 --
 Port of the client.
+<<<<<<< HEAD
+=======
+
+type: long
+
+format: string
+>>>>>>> upstream/master
 
 type: long
 
@@ -899,6 +924,13 @@ example: 12
 +
 --
 Port of the destination.
+<<<<<<< HEAD
+=======
+
+type: long
+
+format: string
+>>>>>>> upstream/master
 
 type: long
 
@@ -1200,6 +1232,11 @@ type: long
 
 example: 7
 
+<<<<<<< HEAD
+=======
+format: string
+
+>>>>>>> upstream/master
 --
 
 *`event.start`*::
@@ -1903,6 +1940,11 @@ type: long
 
 example: 404
 
+<<<<<<< HEAD
+=======
+format: string
+
+>>>>>>> upstream/master
 --
 
 *`http.version`*::
@@ -2465,6 +2507,15 @@ example: ssh
 +
 --
 Process id.
+<<<<<<< HEAD
+=======
+
+type: long
+
+example: 4242
+
+format: string
+>>>>>>> upstream/master
 
 type: long
 
@@ -2473,7 +2524,17 @@ type: long
 *`process.ppid`*::
 +
 --
+<<<<<<< HEAD
 Process parent id.
+=======
+Parent process' pid.
+
+type: long
+
+example: 4241
+
+format: string
+>>>>>>> upstream/master
 
 type: long
 
@@ -2499,6 +2560,11 @@ type: long
 
 example: 4242
 
+<<<<<<< HEAD
+=======
+format: string
+
+>>>>>>> upstream/master
 --
 
 *`process.title`*::
@@ -2703,6 +2769,13 @@ example: 12
 +
 --
 Port of the server.
+<<<<<<< HEAD
+=======
+
+type: long
+
+format: string
+>>>>>>> upstream/master
 
 type: long
 
@@ -3019,6 +3092,13 @@ example: 12
 +
 --
 Port of the source.
+<<<<<<< HEAD
+=======
+
+type: long
+
+format: string
+>>>>>>> upstream/master
 
 type: long
 
@@ -3171,6 +3251,11 @@ type: long
 
 example: 443
 
+<<<<<<< HEAD
+=======
+format: string
+
+>>>>>>> upstream/master
 --
 
 *`url.query`*::
@@ -3397,9 +3482,9 @@ example: 12.0
 --
 
 [[exported-fields-eventlog]]
-== Event log record fields
+== Legacy Winlogbeat alias fields
 
-Contains data from a Windows event log record.
+Field aliases based on Winlogbeat 6.x that point to the fields for this version of Winlogbeat. These are added to the index template when `migration.6_to_7.enable: true` is set in the configuration.
 
 
 
@@ -3612,6 +3697,19 @@ type: keyword
 example: 18D109
 
 --
+<<<<<<< HEAD
+
+*`host.os.codename`*::
++
+--
+OS codename, if any.
+
+
+type: keyword
+
+example: stretch
+=======
+>>>>>>> upstream/master
 
 *`host.os.codename`*::
 +
@@ -3750,7 +3848,7 @@ type: keyword
 
 --
 
-*`kubernetes.labels`*::
+*`kubernetes.labels.*`*::
 +
 --
 Kubernetes labels map
@@ -3760,7 +3858,7 @@ type: object
 
 --
 
-*`kubernetes.annotations`*::
+*`kubernetes.annotations.*`*::
 +
 --
 Kubernetes annotations map
@@ -3837,8 +3935,161 @@ alias to: process.executable
 
 --
 
+[[exported-fields-security]]
+== Security module fields
+
+These are the event fields specific to the module for the Security log.
+
+
+
+[float]
+=== winlog.logon
+
+Data related to a Windows logon.
+
+
+*`winlog.logon.type`*::
++
+--
+<<<<<<< HEAD
+The name of the file the event was read from when Winlogbeat is reading directly from an .evtx file.
+
+
+type: keyword
+=======
+Logon type name. This is the descriptive version of the `winlog.event_data.LogonType` ordinal. This is an enrichment added by the Security module.
+
+
+type: keyword
+
+example: RemoteInteractive
+
+--
+
+*`winlog.logon.id`*::
++
+--
+Logon ID that can be used to associate this logon with other events related to the same logon session.
+>>>>>>> upstream/master
+
+required: False
+
+type: keyword
+
+--
+
+*`winlog.logon.failure.reason`*::
++
+--
+The reason the logon failed.
+
+
+type: keyword
+
+--
+
+*`winlog.logon.failure.status`*::
++
+--
+The reason the logon failed. This is textual description based on the value of the hexadecimal `Status` field.
+
+
+type: keyword
+
+--
+
+*`winlog.logon.failure.sub_status`*::
++
+--
+Additional information about the logon failure. This is a textual description based on the value of the hexidecimal `SubStatus` field.
+
+
+type: keyword
+
+--
+
+[[exported-fields-sysmon]]
+== Sysmon module fields
+
+These are the event fields specific to the Sysmon module.
+
+
+
+*`sysmon.dns.status`*::
++
+--
+Windows status code returned for the DNS query.
+
+type: keyword
+
+--
+
+*`dns.question.name`*::
++
+--
+The name being queried.
+
+
+type: keyword
+
+--
+
+*`dns.answers`*::
++
+--
+An array containing a dictionary about each answer section returned by the server.
+
+
+type: object
+
+--
+
+*`dns.answers.type`*::
++
+--
+The type of data contained in this resource record.
+
+type: keyword
+
+example: CNAME
+
+--
+
+*`dns.answers.data`*::
++
+--
+The code for this log message (Windows event ID).
+
+<<<<<<< HEAD
+
+type: keyword
+=======
+--
+
+*`dns.answers_count`*::
++
+--
+The number of resource records contained in the `dns.answers` field.
+
+
+type: long
+
+example: 3
+
+--
+
+*`dns.grouped.ip`*::
++
+--
+Array containing all IPs seen in `dns.answers.data`.
+
+
+type: ip
+
+--
+
 [[exported-fields-winlog]]
-== Windows Event Log fields emitted by Winlogbeat fields
+== Winlogbeat fields
 
 Fields from the Windows Event Log.
 
@@ -3860,7 +4111,9 @@ required: False
 +
 --
 The code for this log message (Windows event ID).
+>>>>>>> upstream/master
 
+required: False
 
 type: keyword
 
@@ -4076,15 +4329,34 @@ required: False
 +
 --
 The Windows security identifier (SID) of the account associated with this event.
+<<<<<<< HEAD
+=======
+If Winlogbeat cannot resolve the SID to a name, then the `user.name`, `user.domain`, and `user.type` fields will be omitted from the event. If you discover Winlogbeat not resolving SIDs, review the log for clues as to what the problem may be.
+
+
+type: keyword
+>>>>>>> upstream/master
 
 If Winlogbeat cannot resolve the SID to a name, then the `user.name`, `user.domain`, and `user.type` fields will be omitted from the event. If you discover Winlogbeat not resolving SIDs, review the log for clues as to what the problem may be.
 
 
+<<<<<<< HEAD
 type: keyword
 
 example: S-1-5-21-3541430928-2051711210-1391384369-1001
 
 required: False
+=======
+--
+
+*`winlog.user.name`*::
++
+--
+Name of the user associated with this event.
+
+
+type: keyword
+>>>>>>> upstream/master
 
 --
 

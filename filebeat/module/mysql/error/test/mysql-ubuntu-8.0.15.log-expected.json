@@ -1,7 +1,10 @@
 [
     {
         "@timestamp": "2019-03-24T13:44:25.484Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "mysql.error",
         "event.module": "mysql",
         "fileset.name": "error",
@@ -14,7 +17,10 @@
     },
     {
         "@timestamp": "2019-03-24T13:44:27.924Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "mysql.error",
         "event.module": "mysql",
         "fileset.name": "error",
@@ -27,7 +33,10 @@
     },
     {
         "@timestamp": "2019-03-24T13:44:29.065Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "mysql.error",
         "event.module": "mysql",
         "fileset.name": "error",
@@ -40,7 +49,10 @@
     },
     {
         "@timestamp": "2019-03-24T13:44:31.085Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "mysql.error",
         "event.module": "mysql",
         "fileset.name": "error",
@@ -53,7 +65,10 @@
     },
     {
         "@timestamp": "2019-03-24T13:44:31.533Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "mysql.error",
         "event.module": "mysql",
         "fileset.name": "error",
@@ -66,7 +81,10 @@
     },
     {
         "@timestamp": "2019-03-24T13:44:31.534Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "mysql.error",
         "event.module": "mysql",
         "fileset.name": "error",
@@ -79,7 +97,10 @@
     },
     {
         "@timestamp": "2019-03-24T13:44:31.555Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "mysql.error",
         "event.module": "mysql",
         "fileset.name": "error",
@@ -92,7 +113,10 @@
     },
     {
         "@timestamp": "2019-03-24T13:44:33.236Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "mysql.error",
         "event.module": "mysql",
         "fileset.name": "error",
@@ -105,7 +129,10 @@
     },
     {
         "@timestamp": "2019-03-24T13:44:34.072Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "mysql.error",
         "event.module": "mysql",
         "fileset.name": "error",
@@ -118,7 +145,10 @@
     },
     {
         "@timestamp": "2019-03-24T13:44:34.406Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "mysql.error",
         "event.module": "mysql",
         "fileset.name": "error",
@@ -131,7 +161,10 @@
     },
     {
         "@timestamp": "2019-03-24T13:44:34.420Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "mysql.error",
         "event.module": "mysql",
         "fileset.name": "error",
@@ -144,7 +177,10 @@
     },
     {
         "@timestamp": "2019-03-24T13:44:34.572Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "mysql.error",
         "event.module": "mysql",
         "fileset.name": "error",

@@ -1,7 +1,10 @@
 [
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -29,7 +32,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -57,7 +63,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -85,7 +94,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -113,7 +125,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -141,7 +156,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -169,7 +187,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -197,7 +218,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -225,7 +249,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -253,7 +280,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -281,7 +311,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -309,7 +342,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -337,7 +373,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -365,7 +404,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -393,7 +435,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -421,7 +466,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -449,7 +497,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -477,7 +528,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -505,7 +559,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -533,7 +590,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -561,7 +621,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -589,7 +652,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -617,7 +683,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -645,7 +714,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -673,7 +745,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -701,7 +776,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -729,7 +807,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -757,7 +838,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -785,7 +869,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -813,7 +900,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -841,7 +931,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -869,7 +962,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -897,7 +993,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -925,7 +1024,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -953,7 +1055,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -981,7 +1086,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -1009,7 +1117,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -1037,7 +1148,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -1065,7 +1179,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -1093,7 +1210,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -1121,7 +1241,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -1149,7 +1272,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -1177,7 +1303,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -1205,7 +1334,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -1233,7 +1365,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -1261,7 +1396,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -1289,7 +1427,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -1317,7 +1458,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -1345,7 +1489,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -1373,7 +1520,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -1401,7 +1551,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -1429,7 +1582,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -1457,7 +1613,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -1485,7 +1644,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -1513,7 +1675,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -1541,7 +1706,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -1569,7 +1737,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -1597,7 +1768,10 @@
     },
     {
         "@timestamp": "2018-01-08T14:51:55.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -1625,7 +1799,10 @@
     },
     {
         "@timestamp": "2018-01-08T17:06:29.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",
@@ -1661,7 +1838,10 @@
     },
     {
         "@timestamp": "2018-01-08T17:19:48.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "osquery.result",
         "event.module": "osquery",
         "fileset.name": "result",

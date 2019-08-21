@@ -16,13 +16,25 @@ processors:
     formats:
     - yy-MM-dd HH:mm:ss.SSS
     ignore_failure: true
+<<<<<<< HEAD
     #{< if .convert_timezone >}
     timezone: "{{ event.timezone }}"
     #{< end >}
+=======
+- date:
+    if: "ctx.event.timezone != null"
+    field: "@timestamp"
+    formats: ["ISO8601"]
+    timezone: "{{ event.timezone }}"
+>>>>>>> upstream/master
 - remove:
     field:
     - timestamp
 on_failure:
 - set:
     field: error.message
+<<<<<<< HEAD
     value: "{{ _ingest.on_failure_message }}"
+=======
+    value: "{{ _ingest.on_failure_message }}"
+>>>>>>> upstream/master

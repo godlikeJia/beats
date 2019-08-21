@@ -1,7 +1,10 @@
 [
     {
         "@timestamp": "2016-12-26T14:16:28.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "apache.access",
         "event.module": "apache",
         "fileset.name": "access",
@@ -19,7 +22,10 @@
     },
     {
         "@timestamp": "2016-12-26T14:16:29.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "apache.access",
         "event.module": "apache",
         "fileset.name": "access",
@@ -37,7 +43,10 @@
     },
     {
         "@timestamp": "2016-12-26T14:16:48.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "apache.access",
         "event.module": "apache",
         "fileset.name": "access",
@@ -51,7 +60,10 @@
     },
     {
         "@timestamp": "2016-12-26T16:23:35.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "apache.access",
         "event.module": "apache",
         "fileset.name": "access",
@@ -63,6 +75,11 @@
         "log.offset": 181,
         "service.type": "apache",
         "source.address": "77.179.66.156",
+<<<<<<< HEAD
+=======
+        "source.as.number": 6805,
+        "source.as.organization.name": "Telefonica Germany",
+>>>>>>> upstream/master
         "source.geo.continent_name": "Europe",
         "source.geo.country_iso_code": "DE",
         "source.geo.location.lat": 51.2993,
@@ -73,7 +90,10 @@
     },
     {
         "@timestamp": "2016-12-26T16:23:41.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "apache.access",
         "event.module": "apache",
         "fileset.name": "access",
@@ -85,6 +105,11 @@
         "log.offset": 252,
         "service.type": "apache",
         "source.address": "77.179.66.156",
+<<<<<<< HEAD
+=======
+        "source.as.number": 6805,
+        "source.as.organization.name": "Telefonica Germany",
+>>>>>>> upstream/master
         "source.geo.continent_name": "Europe",
         "source.geo.country_iso_code": "DE",
         "source.geo.location.lat": 51.2993,
@@ -95,7 +120,10 @@
     },
     {
         "@timestamp": "2016-12-26T16:23:45.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "apache.access",
         "event.module": "apache",
         "fileset.name": "access",
@@ -107,6 +135,11 @@
         "log.offset": 332,
         "service.type": "apache",
         "source.address": "77.179.66.156",
+<<<<<<< HEAD
+=======
+        "source.as.number": 6805,
+        "source.as.organization.name": "Telefonica Germany",
+>>>>>>> upstream/master
         "source.geo.continent_name": "Europe",
         "source.geo.country_iso_code": "DE",
         "source.geo.location.lat": 51.2993,

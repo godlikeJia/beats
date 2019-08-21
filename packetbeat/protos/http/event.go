@@ -70,6 +70,9 @@ type ProtocolFields struct {
 
 	// HTTP response status phrase.
 	ResponseStatusPhrase common.NetString `packetbeat:"response.status_phrase"`
+
+	// self parsed response body
+	ParsedResonpseBody common.MapStr `packetbeat:"response.parsed_body"`
 }
 
 // netURL returns a new ecs.Url object with data from the HTTP request.

@@ -1,9 +1,15 @@
 [
     {
         "@timestamp": "2018-10-17T12:04:41.718Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.coordinator.group.GroupMetadataManager",
@@ -15,9 +21,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:14:41.719Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.coordinator.group.GroupMetadataManager",
@@ -29,9 +41,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:24:41.719Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.coordinator.group.GroupMetadataManager",
@@ -43,9 +61,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:34:41.719Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.coordinator.group.GroupMetadataManager",
@@ -57,9 +81,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:44:41.719Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.coordinator.group.GroupMetadataManager",
@@ -71,9 +101,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:50:23.313Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherManager",
@@ -85,9 +121,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:50:23.314Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.cluster.Partition",
@@ -99,9 +141,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:50:23.321Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherManager",
@@ -113,9 +161,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:50:23.322Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherManager",
@@ -127,9 +181,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:50:23.322Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaAlterLogDirsManager",
@@ -141,9 +201,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:50:23.323Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherThread",
@@ -155,9 +221,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:50:23.323Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "org.apache.kafka.clients.FetchSessionHandler",
@@ -169,9 +241,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:50:23.324Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherThread",
@@ -183,9 +261,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:50:23.331Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherThread",
@@ -197,9 +281,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:50:23.348Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherManager",
@@ -211,9 +301,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:50:23.348Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.cluster.Partition",
@@ -225,9 +321,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:50:23.350Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.cluster.Partition",
@@ -239,9 +341,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:50:23.351Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.cluster.Partition",
@@ -253,9 +361,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:50:23.355Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherManager",
@@ -267,9 +381,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:50:23.360Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherManager",
@@ -281,9 +401,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:50:23.361Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaAlterLogDirsManager",
@@ -295,9 +421,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:50:23.421Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherThread",
@@ -309,9 +441,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:50:23.421Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.log.Log",
@@ -323,9 +461,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:50:24.508Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaAlterLogDirsManager",
@@ -337,9 +481,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:51:56.064Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.cluster.Partition",
@@ -351,9 +501,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:51:56.091Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.cluster.Partition",
@@ -365,9 +521,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:51:56.098Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.cluster.Partition",
@@ -379,9 +541,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:51:56.104Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.cluster.Partition",
@@ -393,9 +561,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:54:31.461Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherManager",
@@ -407,9 +581,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:54:31.481Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherManager",
@@ -421,9 +601,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:54:31.482Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaAlterLogDirsManager",
@@ -435,9 +621,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:54:31.483Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherThread",
@@ -449,9 +641,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:54:31.501Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherThread",
@@ -463,9 +661,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:54:31.504Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.log.Log",
@@ -477,9 +681,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:54:31.504Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherManager",
@@ -491,9 +701,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:54:31.508Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherManager",
@@ -505,9 +721,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:54:31.510Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaAlterLogDirsManager",
@@ -519,9 +741,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:54:32.043Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherThread",
@@ -533,9 +761,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:54:32.044Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.log.Log",
@@ -547,9 +781,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:54:41.719Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.coordinator.group.GroupMetadataManager",
@@ -561,9 +801,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:57:17.790Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherManager",
@@ -575,9 +821,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:57:17.809Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.log.Log",
@@ -589,9 +841,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:57:17.810Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.log.Log",
@@ -603,9 +861,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:57:17.812Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.log.LogManager",
@@ -617,9 +881,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:57:17.816Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.cluster.Partition",
@@ -631,9 +901,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:57:17.816Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.cluster.Replica",
@@ -645,9 +921,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:57:17.816Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.cluster.Replica",
@@ -659,9 +941,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:57:17.816Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.cluster.Partition",
@@ -673,9 +961,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:57:17.817Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.cluster.Replica",
@@ -687,9 +981,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:57:17.833Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.log.Log",
@@ -701,9 +1001,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:57:17.833Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.log.Log",
@@ -715,9 +1021,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:57:17.835Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.log.LogManager",
@@ -729,9 +1041,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:57:17.836Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.cluster.Partition",
@@ -743,9 +1061,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:57:17.836Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.cluster.Replica",
@@ -757,9 +1081,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:57:17.837Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherManager",
@@ -771,9 +1101,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:57:17.838Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherManager",
@@ -785,9 +1121,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:57:17.839Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaAlterLogDirsManager",
@@ -799,9 +1141,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:57:17.896Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherThread",
@@ -813,9 +1161,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:57:17.897Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.log.Log",
@@ -827,9 +1181,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:57:18.400Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherThread",
@@ -846,9 +1206,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.490Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "org.apache.kafka.common.utils.LoggingSignalHandler",
@@ -860,9 +1226,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.492Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.KafkaServer",
@@ -874,9 +1246,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.494Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.KafkaServer",
@@ -888,9 +1266,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.547Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherManager",
@@ -902,9 +1286,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.550Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaAlterLogDirsManager",
@@ -916,9 +1306,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.556Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherManager",
@@ -930,9 +1326,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.556Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaAlterLogDirsManager",
@@ -944,9 +1346,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.558Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherManager",
@@ -958,9 +1366,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.558Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaAlterLogDirsManager",
@@ -972,9 +1386,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.561Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherManager",
@@ -986,9 +1406,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.561Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaAlterLogDirsManager",
@@ -1000,9 +1426,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.567Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherManager",
@@ -1014,9 +1446,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.567Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaAlterLogDirsManager",
@@ -1028,9 +1466,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.568Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherManager",
@@ -1042,9 +1486,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.568Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaAlterLogDirsManager",
@@ -1056,9 +1506,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.568Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherThread",
@@ -1070,9 +1526,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.577Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "org.apache.kafka.clients.FetchSessionHandler",
@@ -1084,9 +1546,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.577Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherThread",
@@ -1098,9 +1566,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.583Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherThread",
@@ -1112,9 +1586,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.585Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherManager",
@@ -1126,9 +1606,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.586Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaAlterLogDirsManager",
@@ -1140,9 +1626,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.594Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherThread",
@@ -1154,9 +1646,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.601Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "org.apache.kafka.clients.FetchSessionHandler",
@@ -1168,9 +1666,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.602Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherThread",
@@ -1182,9 +1686,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.602Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherThread",
@@ -1196,9 +1706,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.604Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.KafkaServer",
@@ -1210,9 +1726,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.605Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.common.ZkNodeChangeNotificationListener$ChangeEventProcessThread",
@@ -1224,9 +1746,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.606Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.common.ZkNodeChangeNotificationListener$ChangeEventProcessThread",
@@ -1238,9 +1766,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.606Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherManager",
@@ -1252,9 +1786,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.606Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaAlterLogDirsManager",
@@ -1266,9 +1806,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.606Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.common.ZkNodeChangeNotificationListener$ChangeEventProcessThread",
@@ -1280,9 +1826,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.607Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.network.SocketServer",
@@ -1294,9 +1846,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.608Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherManager",
@@ -1308,9 +1866,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.608Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaAlterLogDirsManager",
@@ -1322,9 +1886,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.609Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherManager",
@@ -1336,9 +1906,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.609Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaAlterLogDirsManager",
@@ -1350,9 +1926,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.610Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherManager",
@@ -1364,9 +1946,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.610Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaAlterLogDirsManager",
@@ -1378,9 +1966,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.611Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaFetcherManager",
@@ -1392,9 +1986,15 @@
     },
     {
         "@timestamp": "2018-10-17T12:58:47.611Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.server.ReplicaAlterLogDirsManager",

@@ -36,6 +36,9 @@ type httpConfig struct {
 	RedactAuthorization    bool     `config:"redact_authorization"`
 	MaxMessageSize         int      `config:"max_message_size"`
 	DecodeBody             bool     `config:"decode_body"`
+	PbDir                  string   `config:"pb_dir"`
+	PbFile                 string   `config:"pb_file"`
+	PbMessage              string   `config:"pb_message"`
 }
 
 var (
@@ -45,5 +48,8 @@ var (
 		},
 		MaxMessageSize: tcp.TCPMaxDataInStream,
 		DecodeBody:     true,
+		PbDir:          "./",
+		PbFile:         "",
+		PbMessage:      "",
 	}
 )

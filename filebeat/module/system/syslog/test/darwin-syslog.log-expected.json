@@ -1,8 +1,14 @@
 [
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -13,9 +19,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -29,9 +41,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -42,9 +60,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -55,9 +79,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -71,9 +101,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -84,9 +120,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -97,9 +139,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -113,9 +161,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -126,9 +180,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -139,9 +199,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -152,9 +218,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -165,9 +237,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -178,9 +256,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -191,9 +275,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -204,9 +294,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -217,9 +313,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -230,9 +332,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -243,9 +351,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -256,9 +370,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -269,9 +389,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -282,9 +408,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -295,9 +427,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -311,9 +449,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -324,9 +468,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -340,9 +490,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -353,9 +509,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -366,9 +528,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -379,9 +547,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -392,9 +566,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -405,9 +585,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -418,9 +604,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -431,9 +623,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -447,9 +645,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -460,9 +664,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -476,9 +686,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -489,9 +705,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -502,9 +724,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -515,9 +743,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -528,9 +762,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -540,9 +780,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -553,9 +799,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -566,9 +818,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -579,9 +837,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -591,9 +855,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -603,9 +873,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -616,9 +892,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -628,9 +910,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -641,9 +929,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -654,9 +948,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -666,9 +966,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -679,9 +985,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -692,9 +1004,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -705,9 +1023,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -717,9 +1041,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -730,9 +1060,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -742,9 +1078,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -755,9 +1097,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -767,9 +1115,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -780,9 +1134,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -793,9 +1153,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -806,9 +1172,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -818,9 +1190,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -831,9 +1209,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -843,9 +1227,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -856,9 +1246,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -869,9 +1265,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -882,9 +1284,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -894,9 +1302,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -907,9 +1321,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -920,9 +1340,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -932,9 +1358,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -945,9 +1377,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -958,9 +1396,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -970,9 +1414,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -983,9 +1433,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -996,9 +1452,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -1008,9 +1470,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -1021,9 +1489,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -1033,9 +1507,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -1046,9 +1526,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -1058,9 +1544,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -1071,9 +1563,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -1084,9 +1582,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -1097,9 +1601,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -1110,9 +1620,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -1122,9 +1638,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -1135,9 +1657,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -1148,9 +1676,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -1160,9 +1694,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -1173,9 +1713,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -1186,9 +1732,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -1198,9 +1750,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -1211,9 +1769,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -1223,9 +1787,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -1236,9 +1806,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -1249,9 +1825,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -1262,9 +1844,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -1274,9 +1862,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",
@@ -1287,9 +1881,15 @@
         "service.type": "system"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.syslog",
         "event.module": "system",
+=======
+        "event.dataset": "system.syslog",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "syslog",
         "host.hostname": "a-mac-with-esc-key",
         "input.type": "log",

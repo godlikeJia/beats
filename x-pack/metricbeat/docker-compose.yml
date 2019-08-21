@@ -8,17 +8,45 @@ services:
     volumes:
       - ${PWD}/../..:/go/src/github.com/elastic/beats/
       - /var/run/docker.sock:/var/run/docker.sock
+    network_mode: host
     command: make
+<<<<<<< HEAD
     env_file:
       - ./module/coredns/_meta/env
       - ./module/mssql/_meta/env
 
   # Modules
+=======
+
+  # Modules
+  cockroachdb:
+    build: ./module/cockroachdb/_meta
+    ports:
+      - 8080
+
+>>>>>>> upstream/master
   coredns:
     build: ./module/coredns/_meta
     ports:
       - 9153
 
+<<<<<<< HEAD
+=======
+  elasticsearch:
+    extends:
+      file: ../../metricbeat/docker-compose.yml
+      service: elasticsearch
+
+  kibana:
+    # Copied configuration from OSS metricbeat because services with depends_on
+    # cannot be extended with extends
+    build: ../../metricbeat/module/kibana/_meta
+    depends_on:
+      - elasticsearch
+    ports:
+      - 5601
+
+>>>>>>> upstream/master
   mssql:
     build: ./module/mssql/_meta
     ports:

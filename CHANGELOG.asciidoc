@@ -3,6 +3,7 @@
 :issue: https://github.com/elastic/beats/issues/
 :pull: https://github.com/elastic/beats/pull/
 
+<<<<<<< HEAD
 [[release-notes-7.2.1]]
 === Beats version 7.2.1
 https://github.com/elastic/beats/compare/v7.2.0...v7.2.1[View commits]
@@ -263,6 +264,8 @@ https://github.com/elastic/beats/compare/v7.1.1...v7.2.0[View commits]
 *Journalbeat*
 
 
+=======
+>>>>>>> upstream/master
 [[release-notes-7.1.1]]
 === Beats version 7.1.1
 https://github.com/elastic/beats/compare/v7.1.0...v7.1.1[View commits]
@@ -364,6 +367,11 @@ https://github.com/elastic/beats/compare/v7.0.0-rc1...v7.0.0-rc2[Check the HEAD 
 *Affecting all Beats*
 
 - Fixed OS family classification in `add_host_metadata` for Amazon Linux, Raspbian, and RedHat Linux. {issue}9134[9134] {pull}11494[11494]
+- Allow 'ilm.rollover_alias' to expand global fields like `agent.version`. {issue}12233[12233]
+
+*Auditbeat*
+
+- Package dataset: dlopen versioned librpm shared objects. {pull}11565[11565]
 
 *Auditbeat*
 
@@ -1078,7 +1086,11 @@ https://github.com/elastic/beats/compare/v6.5.0...v7.0.0-alpha1[View commits]
 
 * Updates to support changes to licensing of security features.
 +
+<<<<<<< HEAD
 Some Elastic Stack security features, such as encrypted communications, file and native authentication, and
+=======
+Some Elastic Stack security features, such as encrypted communications, file and native authentication, and 
+>>>>>>> upstream/master
 role-based access control, are now available in more subscription levels. For details, see https://www.elastic.co/subscriptions.
 
 [[release-notes-6.7.2]]

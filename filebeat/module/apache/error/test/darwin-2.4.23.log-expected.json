@@ -2,7 +2,10 @@
     {
         "@timestamp": "2016-12-26T16:15:55.103Z",
         "apache.error.module": "mpm_prefork",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "apache.error",
         "event.module": "apache",
         "fileset.name": "error",
@@ -16,7 +19,10 @@
     {
         "@timestamp": "2016-12-26T16:15:55.103Z",
         "apache.error.module": "core",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "apache.error",
         "event.module": "apache",
         "fileset.name": "error",

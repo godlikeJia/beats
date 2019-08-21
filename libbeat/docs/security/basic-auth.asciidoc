@@ -19,7 +19,7 @@ under `output.elasticsearch`. For example:
 ----
 output.elasticsearch:
   hosts: ["localhost:9200"]
-  username: "{beat_default_index_prefix}_internal" <1>
+  username: "{beat_default_index_prefix}_writer" <1>
   password: "{pwd}" <2>
 ----
 <1> Let's assume this user has the privileges required to publish events to
@@ -27,6 +27,7 @@ output.elasticsearch:
 <2> The example shows a hard-coded password, but you should store sensitive
 values in the <<keystore,secrets keystore>>.
 --
+<<<<<<< HEAD
 +
 If you've configured the {kib} endpoint, also specify credentials for
 authenticating with {kib}. For example:
@@ -47,6 +48,30 @@ the `role_mapping.yml` file on each node in the {es} cluster. For more
 information, see {xpack-ref}/mapping-roles.html#mapping-roles-file[Using Role
 Mapping Files].
 +
+=======
+ifndef::apm-server[]
++
+If you've configured the {kib} endpoint, also specify credentials for
+authenticating with {kib}. For example:
++
+["source","yaml",subs="attributes,callouts"]
+----
+setup.kibana:
+  host: "mykibanahost:5601"
+  username: "{beat_default_index_prefix}_setup" <1>
+  password: "{pwd}" 
+----
+<1> Let's assume this user has the privileges required to set up dashboards.
+endif::apm-server[]
+
+* To use Public Key Infrastructure (PKI) certificates to authenticate users,
+configure the `certificate` and `key` settings. These settings assume that the
+distinguished name (DN) in the certificate is mapped to the appropriate roles in
+the `role_mapping.yml` file on each node in the {es} cluster. For more
+information, see {xpack-ref}/mapping-roles.html#mapping-roles-file[Using Role
+Mapping Files].
++
+>>>>>>> upstream/master
 ["source","yaml",subs="attributes,callouts"]
 --------------------------------------------------
 output.elasticsearch:

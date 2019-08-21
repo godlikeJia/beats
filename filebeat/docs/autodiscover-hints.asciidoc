@@ -107,7 +107,11 @@ filebeat.autodiscover:
       hints.default_config:
         type: container
         paths:
+<<<<<<< HEAD
           /var/log/container/*-${container.id}.log  # CRI path
+=======
+          - /var/log/container/*-${container.id}.log  # CRI path
+>>>>>>> upstream/master
 -------------------------------------------------------------------------------------
 
 You can also disable default settings entirely, so only Pods annotated like `co.elastic.logs/enabled: true`
@@ -176,7 +180,11 @@ filebeat.autodiscover:
       hints.default_config:
         type: container
         paths:
+<<<<<<< HEAD
           /var/log/container/*-${container.id}.log  # CRI path
+=======
+          - /var/log/container/*-${container.id}.log  # CRI path
+>>>>>>> upstream/master
 -------------------------------------------------------------------------------------
 
 You can also disable default settings entirely, so only containers labeled with `co.elastic.logs/enabled: true`

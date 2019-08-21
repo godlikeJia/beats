@@ -1,11 +1,18 @@
 [
     {
         "@timestamp": "2018-05-17T08:19:35.939Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.n.Node",
         "elasticsearch.node.name": "",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -15,11 +22,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:36.089Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.e.NodeEnvironment",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -29,11 +43,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:36.090Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.e.NodeEnvironment",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -43,10 +64,17 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:36.116Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "elasticsearch.component": "o.e.n.Node",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+=======
+        "elasticsearch.component": "o.e.n.Node",
+        "event.dataset": "elasticsearch.server",
+        "event.module": "elasticsearch",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -56,10 +84,17 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:36.117Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "elasticsearch.component": "o.e.n.Node",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+=======
+        "elasticsearch.component": "o.e.n.Node",
+        "event.dataset": "elasticsearch.server",
+        "event.module": "elasticsearch",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -69,10 +104,17 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:36.117Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "elasticsearch.component": "o.e.n.Node",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+=======
+        "elasticsearch.component": "o.e.n.Node",
+        "event.dataset": "elasticsearch.server",
+        "event.module": "elasticsearch",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -82,11 +124,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:37.563Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.p.PluginsService",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -96,11 +145,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:37.564Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.p.PluginsService",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -110,11 +166,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:37.564Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.p.PluginsService",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -124,11 +187,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:37.564Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.p.PluginsService",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -138,11 +208,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:37.564Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.p.PluginsService",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -152,11 +229,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:37.564Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.p.PluginsService",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -166,11 +250,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:37.565Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.p.PluginsService",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -180,11 +271,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:37.565Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.p.PluginsService",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -194,11 +292,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:37.565Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.p.PluginsService",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -208,11 +313,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:37.565Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.p.PluginsService",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -222,11 +334,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:37.566Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.p.PluginsService",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -236,11 +355,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:37.566Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.p.PluginsService",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -250,11 +376,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:37.566Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.p.PluginsService",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -264,11 +397,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:37.566Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.p.PluginsService",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -278,11 +418,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:37.567Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.p.PluginsService",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -292,11 +439,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:43.741Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.d.DiscoveryModule",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -306,10 +460,17 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:45.090Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "elasticsearch.component": "o.e.n.Node",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+=======
+        "elasticsearch.component": "o.e.n.Node",
+        "event.dataset": "elasticsearch.server",
+        "event.module": "elasticsearch",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -319,11 +480,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:45.090Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.n.Node",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -333,11 +501,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:45.482Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.t.TransportService",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -347,11 +522,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:48.816Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.c.s.MasterService",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -361,11 +543,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:48.826Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.c.s.ClusterApplierService",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -375,11 +564,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:48.895Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.h.n.Netty4HttpServerTransport",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -389,11 +585,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:48.895Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.n.Node",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -403,11 +606,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:49.354Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.g.GatewayService",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -417,11 +627,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:19:50.077Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.c.r.a.AllocationService",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -431,11 +648,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:20:18.871Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.c.r.a.DiskThresholdMonitor",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -445,12 +669,19 @@
     },
     {
         "@timestamp": "2018-05-17T08:20:19.467Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.c.m.MetaDataCreateIndexService",
         "elasticsearch.index.name": "metricbeat-7.0.0-alpha1-2018.05.17",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -460,11 +691,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:20:48.886Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.c.r.a.DiskThresholdMonitor",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -474,11 +712,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:21:18.895Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.c.r.a.DiskThresholdMonitor",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -488,11 +733,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:21:48.904Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.c.r.a.DiskThresholdMonitor",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -502,11 +754,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:22:18.911Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.c.r.a.DiskThresholdMonitor",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -516,11 +775,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:22:48.920Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.c.r.a.DiskThresholdMonitor",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -530,11 +796,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:23:18.932Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.c.r.a.DiskThresholdMonitor",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -544,11 +817,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:23:48.941Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.c.r.a.DiskThresholdMonitor",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -558,11 +838,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:24:18.956Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.c.r.a.DiskThresholdMonitor",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -572,11 +859,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:24:48.963Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.c.r.a.DiskThresholdMonitor",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -586,11 +880,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:25:18.976Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.c.r.a.DiskThresholdMonitor",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -600,11 +901,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:25:48.988Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.c.r.a.DiskThresholdMonitor",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -614,11 +922,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:26:18.997Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.c.r.a.DiskThresholdMonitor",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -628,11 +943,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:26:49.009Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.c.r.a.DiskThresholdMonitor",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -642,11 +964,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:27:19.024Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.c.r.a.DiskThresholdMonitor",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -656,11 +985,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:27:49.035Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.c.r.a.DiskThresholdMonitor",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -670,11 +1006,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:28:19.048Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.c.r.a.DiskThresholdMonitor",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -684,11 +1027,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:28:49.060Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.c.r.a.DiskThresholdMonitor",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -698,12 +1048,19 @@
     },
     {
         "@timestamp": "2018-05-17T08:29:09.245Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.c.m.MetaDataCreateIndexService",
         "elasticsearch.index.name": "filebeat-test-input",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -713,13 +1070,20 @@
     },
     {
         "@timestamp": "2018-05-17T08:29:09.576Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.c.m.MetaDataMappingService",
         "elasticsearch.index.id": "aOGgDwbURfCV57AScqbCgw",
         "elasticsearch.index.name": "filebeat-test-input",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -729,12 +1093,19 @@
     },
     {
         "@timestamp": "2018-05-17T08:29:12.177Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.c.m.MetaDataCreateIndexService",
         "elasticsearch.index.name": "test-filebeat-modules",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -744,13 +1115,20 @@
     },
     {
         "@timestamp": "2018-05-17T08:29:12.660Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.c.m.MetaDataMappingService",
         "elasticsearch.index.id": "npNY8YrBQtC7JpFOh1sB0w",
         "elasticsearch.index.name": "test-filebeat-modules",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -760,11 +1138,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:29:19.114Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.c.r.a.DiskThresholdMonitor",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -774,11 +1159,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:29:25.418Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.n.Node",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -788,11 +1180,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:29:25.598Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.n.Node",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -802,11 +1201,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:29:25.598Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.n.Node",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",
@@ -816,11 +1222,18 @@
     },
     {
         "@timestamp": "2018-05-17T08:29:25.612Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "elasticsearch.component": "o.e.n.Node",
         "elasticsearch.node.name": "vWNJsZ3",
         "event.dataset": "elasticsearch.server",
         "event.module": "elasticsearch",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "server",
         "input.type": "log",
         "log.level": "INFO",

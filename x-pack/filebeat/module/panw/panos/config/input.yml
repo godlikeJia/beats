@@ -18,9 +18,13 @@ exclude_files: [".gz$"]
 tags: {{.tags}}
 
 processors:
+<<<<<<< HEAD
 {{ if .convert_timezone }}
   - add_locale: ~
 {{ end }}
+=======
+  - add_locale: ~
+>>>>>>> upstream/master
 
   - decode_csv_fields:
       fields:

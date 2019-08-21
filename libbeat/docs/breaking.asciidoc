@@ -11,11 +11,21 @@ changes, but there are breaking changes between major versions (e.g. 6.x to
 
 See the following topics for a description of breaking changes:
 
+<<<<<<< HEAD
+=======
+* <<breaking-changes-7.3>>
+
+>>>>>>> upstream/master
 * <<breaking-changes-7.2>>
 
 * <<breaking-changes-7.1>>
 
 * <<breaking-changes-7.0>>
+<<<<<<< HEAD
+=======
+
+include::breaking-7.3.asciidoc[]
+>>>>>>> upstream/master
 
 include::breaking-7.2.asciidoc[]
 

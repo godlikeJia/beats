@@ -52,14 +52,21 @@ include::../include/config-option-intro.asciidoc[]
 
 include::../include/var-paths.asciidoc[]
 
+<<<<<<< HEAD
 :default_convert_timezone: true
 
 include::../include/var-convert-timezone.asciidoc[]
+=======
+include::../include/timezone-support.asciidoc[]
+>>>>>>> upstream/master
 
 :has-dashboards!:
 
 :fileset_ex!:
+<<<<<<< HEAD
 :default_convert_timezone!:
+=======
+>>>>>>> upstream/master
 
 :modulename!:
 

@@ -1,6 +1,9 @@
 [
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "redis.log",
         "event.module": "redis",
         "fileset.name": "log",
@@ -13,7 +16,10 @@
         "service.type": "redis"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "redis.log",
         "event.module": "redis",
         "fileset.name": "log",
@@ -26,7 +32,10 @@
         "service.type": "redis"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "redis.log",
         "event.module": "redis",
         "fileset.name": "log",
@@ -39,7 +48,10 @@
         "service.type": "redis"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "redis.log",
         "event.module": "redis",
         "fileset.name": "log",
@@ -52,7 +64,10 @@
         "service.type": "redis"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "redis.log",
         "event.module": "redis",
         "fileset.name": "log",
@@ -63,7 +78,10 @@
         "service.type": "redis"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "redis.log",
         "event.module": "redis",
         "fileset.name": "log",
@@ -76,7 +94,10 @@
         "service.type": "redis"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "redis.log",
         "event.module": "redis",
         "fileset.name": "log",
@@ -89,7 +110,10 @@
         "service.type": "redis"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "redis.log",
         "event.module": "redis",
         "fileset.name": "log",
@@ -102,7 +126,10 @@
         "service.type": "redis"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "redis.log",
         "event.module": "redis",
         "fileset.name": "log",
@@ -115,7 +142,10 @@
         "service.type": "redis"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "redis.log",
         "event.module": "redis",
         "fileset.name": "log",
@@ -128,7 +158,10 @@
         "service.type": "redis"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "redis.log",
         "event.module": "redis",
         "fileset.name": "log",
@@ -141,7 +174,10 @@
         "service.type": "redis"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "redis.log",
         "event.module": "redis",
         "fileset.name": "log",
@@ -154,7 +190,10 @@
         "service.type": "redis"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "redis.log",
         "event.module": "redis",
         "fileset.name": "log",
@@ -167,7 +206,10 @@
         "service.type": "redis"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "redis.log",
         "event.module": "redis",
         "fileset.name": "log",
@@ -178,7 +220,10 @@
         "service.type": "redis"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "redis.log",
         "event.module": "redis",
         "fileset.name": "log",
@@ -191,7 +236,10 @@
         "service.type": "redis"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "redis.log",
         "event.module": "redis",
         "fileset.name": "log",
@@ -204,7 +252,10 @@
         "service.type": "redis"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "redis.log",
         "event.module": "redis",
         "fileset.name": "log",
@@ -217,7 +268,10 @@
         "service.type": "redis"
     },
     {
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "redis.log",
         "event.module": "redis",
         "fileset.name": "log",

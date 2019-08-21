@@ -14,6 +14,10 @@ multiline:
   match: after
 
 processors:
+<<<<<<< HEAD
 {{ if .convert_timezone }}
   - add_locale: ~
 {{ end }}
+=======
+  - add_locale: ~
+>>>>>>> upstream/master

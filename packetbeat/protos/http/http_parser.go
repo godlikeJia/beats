@@ -56,6 +56,7 @@ type message struct {
 	contentLength int
 	contentType   common.NetString
 	host          common.NetString
+	server        common.NetString
 	referer       common.NetString
 	userAgent     common.NetString
 	encodings     []string
@@ -122,6 +123,7 @@ var (
 	nameHost             = []byte("host")
 	nameReferer          = []byte("referer")
 	nameUserAgent        = []byte("user-agent")
+	nameServer           = []byte("server")
 )
 
 func newParser(config *parserConfig) *parser {
@@ -300,6 +302,9 @@ func (parser *parser) parseHeaders(s *stream, m *message) (cont, ok, complete bo
 			m.sendBody = parser.shouldIncludeInBody(m.contentType, parser.config.includeRequestBodyFor)
 		} else {
 			m.sendBody = parser.shouldIncludeInBody(m.contentType, parser.config.includeResponseBodyFor)
+			if bytes.Equal(m.server, []byte("qqnews_rec")) {
+				m.sendBody = true
+			}
 		}
 		m.saveBody = m.sendBody || (m.contentLength > 0 && bytes.Contains(m.contentType, []byte("urlencoded")))
 
@@ -411,6 +416,8 @@ func (parser *parser) parseHeader(m *message, data []byte) (bool, bool, int) {
 				m.referer = headerVal
 			} else if bytes.Equal(headerName, nameUserAgent) {
 				m.userAgent = headerVal
+			} else if bytes.Equal(headerName, nameServer) {
+				m.server = headerVal
 			}
 
 			if config.sendHeaders {

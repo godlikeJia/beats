@@ -5,6 +5,11 @@
         "client.port": 59309,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -14,13 +19,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -72,6 +84,11 @@
         "client.port": 59313,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -81,13 +98,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -139,6 +163,11 @@
         "client.port": 59314,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -148,13 +177,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -206,6 +242,11 @@
         "client.port": 59315,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -215,13 +256,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -273,6 +321,11 @@
         "client.port": 59316,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -282,13 +335,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -340,6 +400,11 @@
         "client.port": 59317,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -349,13 +414,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -407,6 +479,11 @@
         "client.port": 59302,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -416,13 +493,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -474,6 +558,11 @@
         "client.port": 59301,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -483,13 +572,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -541,6 +637,11 @@
         "client.port": 59303,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -550,13 +651,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -608,6 +716,11 @@
         "client.port": 59304,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -617,13 +730,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -675,6 +795,11 @@
         "client.port": 59297,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -684,13 +809,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -742,6 +874,11 @@
         "client.port": 59299,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -751,13 +888,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -809,6 +953,11 @@
         "client.port": 59298,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -818,13 +967,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -876,6 +1032,11 @@
         "client.port": 59300,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -885,13 +1046,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -942,6 +1110,11 @@
         "client.port": 59295,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -951,13 +1124,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1009,6 +1189,11 @@
         "client.port": 59291,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1018,13 +1203,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1076,19 +1268,31 @@
         "client.port": 59296,
         "client.user.name": "crusher",
         "destination.address": "78.159.99.224",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 28753,
+        "destination.as.organization.name": "Leaseweb Deutschland GmbH",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "Europe",
         "destination.geo.country_iso_code": "DE",
         "destination.geo.location.lat": 51.2993,
         "destination.geo.location.lon": 9.491,
         "destination.ip": "78.159.99.224",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1139,6 +1343,11 @@
         "client.port": 59280,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1148,13 +1357,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1206,6 +1422,11 @@
         "client.port": 59281,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1215,13 +1436,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1273,6 +1501,11 @@
         "client.port": 59282,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1282,13 +1515,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1340,6 +1580,11 @@
         "client.port": 59290,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1349,13 +1594,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1407,6 +1659,11 @@
         "client.port": 59286,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1416,13 +1673,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1474,6 +1738,11 @@
         "client.port": 59275,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1483,13 +1752,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1541,6 +1817,11 @@
         "client.port": 59277,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1550,13 +1831,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1608,6 +1896,11 @@
         "client.port": 59276,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1617,13 +1910,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1675,6 +1975,11 @@
         "client.port": 59278,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1684,13 +1989,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1742,6 +2054,11 @@
         "client.port": 59279,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1751,13 +2068,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1809,6 +2133,11 @@
         "client.port": 59271,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1818,13 +2147,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1876,6 +2212,11 @@
         "client.port": 59269,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1885,13 +2226,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1943,6 +2291,11 @@
         "client.port": 59270,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1952,13 +2305,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2010,6 +2370,11 @@
         "client.port": 59274,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -2019,13 +2384,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2077,6 +2449,11 @@
         "client.port": 59273,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -2086,13 +2463,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2144,6 +2528,11 @@
         "client.port": 59272,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -2153,13 +2542,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2211,19 +2607,31 @@
         "client.port": 59261,
         "client.user.name": "crusher",
         "destination.address": "69.43.161.167",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 22489,
+        "destination.as.organization.name": "Castle Access Inc",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "69.43.161.167",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2274,19 +2682,31 @@
         "client.port": 59248,
         "client.user.name": "crusher",
         "destination.address": "202.31.187.154",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 9952,
+        "destination.as.organization.name": "Hostway IDC",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "Asia",
         "destination.geo.country_iso_code": "KR",
         "destination.geo.location.lat": 37.5112,
         "destination.geo.location.lon": 126.97409999999999,
         "destination.ip": "202.31.187.154",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2337,6 +2757,11 @@
         "client.port": 59251,
         "client.user.name": "crusher",
         "destination.address": "89.111.176.67",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 41126,
+        "destination.as.organization.name": "CJSC Registrar R01",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Moscow",
         "destination.geo.continent_name": "Europe",
         "destination.geo.country_iso_code": "RU",
@@ -2346,13 +2771,20 @@
         "destination.geo.region_name": "Moscow",
         "destination.ip": "89.111.176.67",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2403,6 +2835,11 @@
         "client.port": 59244,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -2412,13 +2849,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2469,19 +2913,31 @@
         "client.port": 59237,
         "client.user.name": "crusher",
         "destination.address": "208.73.210.29",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 40034,
+        "destination.as.organization.name": "Confluence Networks Inc",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "208.73.210.29",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2532,19 +2988,31 @@
         "client.port": 59238,
         "client.user.name": "crusher",
         "destination.address": "208.73.210.29",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 40034,
+        "destination.as.organization.name": "Confluence Networks Inc",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "208.73.210.29",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2595,6 +3063,11 @@
         "client.port": 59010,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -2604,13 +3077,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2661,19 +3141,31 @@
         "client.port": 58969,
         "client.user.name": "crusher",
         "destination.address": "208.73.210.29",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 40034,
+        "destination.as.organization.name": "Confluence Networks Inc",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "208.73.210.29",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2724,19 +3216,31 @@
         "client.port": 58941,
         "client.user.name": "crusher",
         "destination.address": "89.108.64.156",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 197695,
+        "destination.as.organization.name": "Domain names registrar REG.RU, Ltd",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "Europe",
         "destination.geo.country_iso_code": "RU",
         "destination.geo.location.lat": 55.7386,
         "destination.geo.location.lon": 37.6068,
         "destination.ip": "89.108.64.156",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2787,19 +3291,31 @@
         "client.port": 58942,
         "client.user.name": "crusher",
         "destination.address": "89.108.64.156",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 197695,
+        "destination.as.organization.name": "Domain names registrar REG.RU, Ltd",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "Europe",
         "destination.geo.country_iso_code": "RU",
         "destination.geo.location.lat": 55.7386,
         "destination.geo.location.lon": 37.6068,
         "destination.ip": "89.108.64.156",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2853,13 +3369,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 58849,
         "destination.user.name": "crusher",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "spyware_detected",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "drop-all-packets",
         "event.severity": 1,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2896,6 +3419,11 @@
         "server.user.name": "crusher",
         "service.type": "panw",
         "source.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "source.as.number": 27357,
+        "source.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "source.geo.city_name": "Charlotte",
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
@@ -2916,6 +3444,11 @@
         "client.port": 58856,
         "client.user.name": "crusher",
         "destination.address": "216.8.179.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 13727,
+        "destination.as.organization.name": "NEXT DIMENSION INC",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Tecumseh",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "CA",
@@ -2925,13 +3458,20 @@
         "destination.geo.region_name": "Ontario",
         "destination.ip": "216.8.179.25",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2982,19 +3522,31 @@
         "client.port": 58847,
         "client.user.name": "crusher",
         "destination.address": "69.43.161.154",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 22489,
+        "destination.as.organization.name": "Castle Access Inc",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "69.43.161.154",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -3045,19 +3597,31 @@
         "client.port": 58841,
         "client.user.name": "crusher",
         "destination.address": "208.91.196.252",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 40034,
+        "destination.as.organization.name": "Confluence Networks Inc",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "VG",
         "destination.geo.location.lat": 18.5,
         "destination.geo.location.lon": -64.5,
         "destination.ip": "208.91.196.252",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -3108,19 +3672,31 @@
         "client.port": 58795,
         "client.user.name": "crusher",
         "destination.address": "208.73.210.29",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 40034,
+        "destination.as.organization.name": "Confluence Networks Inc",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "208.73.210.29",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -3171,6 +3747,11 @@
         "client.port": 58753,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -3180,13 +3761,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -3237,6 +3825,11 @@
         "client.port": 58708,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -3246,13 +3839,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -3303,6 +3903,11 @@
         "client.port": 58707,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -3312,13 +3917,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -3369,6 +3981,11 @@
         "client.port": 58603,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -3378,13 +3995,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -3435,6 +4059,11 @@
         "client.port": 58603,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -3444,13 +4073,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -3504,13 +4140,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 54431,
         "destination.user.name": "crusher",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "file_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "deny",
         "event.severity": 4,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -3547,6 +4190,11 @@
         "server.user.name": "crusher",
         "service.type": "panw",
         "source.address": "173.236.179.57",
+<<<<<<< HEAD
+=======
+        "source.as.number": 26347,
+        "source.as.organization.name": "New Dream Network, LLC",
+>>>>>>> upstream/master
         "source.geo.city_name": "Brea",
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
@@ -3567,6 +4215,11 @@
         "client.port": 58603,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -3576,13 +4229,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -3636,13 +4296,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 61220,
         "destination.user.name": "crusher",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "file_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "deny",
         "event.severity": 4,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -3696,13 +4363,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 61726,
         "destination.user.name": "crusher",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "file_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "deny",
         "event.severity": 4,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -3739,6 +4413,11 @@
         "server.user.name": "crusher",
         "service.type": "panw",
         "source.address": "122.226.169.183",
+<<<<<<< HEAD
+=======
+        "source.as.number": 4134,
+        "source.as.organization.name": "No.31,Jin-rong Street",
+>>>>>>> upstream/master
         "source.geo.continent_name": "Asia",
         "source.geo.country_iso_code": "CN",
         "source.geo.location.lat": 30.2936,
@@ -3758,6 +4437,11 @@
         "client.port": 63007,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -3767,13 +4451,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -3827,13 +4518,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 60212,
         "destination.user.name": "crusher",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "file_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "deny",
         "event.severity": 4,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -3870,6 +4568,11 @@
         "server.user.name": "crusher",
         "service.type": "panw",
         "source.address": "109.201.131.15",
+<<<<<<< HEAD
+=======
+        "source.as.number": 43350,
+        "source.as.organization.name": "NForce Entertainment B.V.",
+>>>>>>> upstream/master
         "source.geo.continent_name": "Europe",
         "source.geo.country_iso_code": "NL",
         "source.geo.location.lat": 52.3824,
@@ -3890,13 +4593,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 60392,
         "destination.user.name": "crusher",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "file_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "deny",
         "event.severity": 4,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -3947,19 +4657,31 @@
         "client.port": 59709,
         "client.user.name": "crusher",
         "destination.address": "213.180.199.61",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 13238,
+        "destination.as.organization.name": "YANDEX LLC",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "Europe",
         "destination.geo.country_iso_code": "RU",
         "destination.geo.location.lat": 55.7386,
         "destination.geo.location.lon": 37.6068,
         "destination.ip": "213.180.199.61",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4010,19 +4732,31 @@
         "client.port": 59721,
         "client.user.name": "crusher",
         "destination.address": "213.180.199.61",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 13238,
+        "destination.as.organization.name": "YANDEX LLC",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "Europe",
         "destination.geo.country_iso_code": "RU",
         "destination.geo.location.lat": 55.7386,
         "destination.geo.location.lon": 37.6068,
         "destination.ip": "213.180.199.61",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4073,19 +4807,31 @@
         "client.port": 59752,
         "client.user.name": "crusher",
         "destination.address": "213.180.199.61",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 13238,
+        "destination.as.organization.name": "YANDEX LLC",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "Europe",
         "destination.geo.country_iso_code": "RU",
         "destination.geo.location.lat": 55.7386,
         "destination.geo.location.lon": 37.6068,
         "destination.ip": "213.180.199.61",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4139,13 +4885,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 54431,
         "destination.user.name": "crusher",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "file_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "deny",
         "event.severity": 4,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4182,6 +4935,11 @@
         "server.user.name": "crusher",
         "service.type": "panw",
         "source.address": "173.236.179.57",
+<<<<<<< HEAD
+=======
+        "source.as.number": 26347,
+        "source.as.organization.name": "New Dream Network, LLC",
+>>>>>>> upstream/master
         "source.geo.city_name": "Brea",
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
@@ -4202,6 +4960,11 @@
         "client.port": 63183,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4211,13 +4974,20 @@
         "destination.geo.region_name": "North Carolina",
         "destination.ip": "204.232.231.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4268,6 +5038,11 @@
         "client.port": 1047,
         "client.user.name": "jordy",
         "destination.address": "207.46.140.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 8075,
+        "destination.as.organization.name": "Microsoft Corporation",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Hong Kong",
         "destination.geo.continent_name": "Asia",
         "destination.geo.country_iso_code": "HK",
@@ -4277,13 +5052,20 @@
         "destination.geo.region_name": "Central and Western District",
         "destination.ip": "207.46.140.46",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4337,13 +5119,20 @@
         "destination.ip": "192.168.0.6",
         "destination.port": 1039,
         "destination.user.name": "jordy",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4380,6 +5169,11 @@
         "server.user.name": "jordy",
         "service.type": "panw",
         "source.address": "65.54.161.34",
+<<<<<<< HEAD
+=======
+        "source.as.number": 8075,
+        "source.as.organization.name": "Microsoft Corporation",
+>>>>>>> upstream/master
         "source.geo.city_name": "Redmond",
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
@@ -4403,13 +5197,20 @@
         "destination.ip": "192.168.0.6",
         "destination.port": 1064,
         "destination.user.name": "jordy",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4446,6 +5247,11 @@
         "server.user.name": "jordy",
         "service.type": "panw",
         "source.address": "65.55.5.231",
+<<<<<<< HEAD
+=======
+        "source.as.number": 8075,
+        "source.as.organization.name": "Microsoft Corporation",
+>>>>>>> upstream/master
         "source.geo.city_name": "Redmond",
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
@@ -4466,6 +5272,11 @@
         "client.port": 1048,
         "client.user.name": "jordy",
         "destination.address": "65.54.71.11",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 8075,
+        "destination.as.organization.name": "Microsoft Corporation",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Los Angeles",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4475,13 +5286,20 @@
         "destination.geo.region_name": "California",
         "destination.ip": "65.54.71.11",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4535,13 +5353,20 @@
         "destination.ip": "192.168.0.6",
         "destination.port": 1071,
         "destination.user.name": "jordy",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4578,6 +5403,11 @@
         "server.user.name": "jordy",
         "service.type": "panw",
         "source.address": "74.125.239.17",
+<<<<<<< HEAD
+=======
+        "source.as.number": 15169,
+        "source.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
         "source.geo.location.lat": 37.751,
@@ -4595,19 +5425,31 @@
         "client.port": 57502,
         "client.user.name": "picard",
         "destination.address": "208.85.40.48",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 40428,
+        "destination.as.organization.name": "Pandora Media, Inc",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "208.85.40.48",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4661,13 +5503,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 57876,
         "destination.user.name": "picard",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "reset-both",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4704,6 +5553,11 @@
         "server.user.name": "picard",
         "service.type": "panw",
         "source.address": "74.125.224.198",
+<<<<<<< HEAD
+=======
+        "source.as.number": 15169,
+        "source.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
         "source.geo.location.lat": 37.751,
@@ -4724,13 +5578,20 @@
         "destination.ip": "192.168.0.6",
         "destination.port": 1082,
         "destination.user.name": "jordy",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "file_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "deny",
         "event.severity": 4,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4784,13 +5645,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 50986,
         "destination.user.name": "picard",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "reset-both",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4827,6 +5695,11 @@
         "server.user.name": "picard",
         "service.type": "panw",
         "source.address": "74.125.224.200",
+<<<<<<< HEAD
+=======
+        "source.as.number": 15169,
+        "source.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
         "source.geo.location.lat": 37.751,
@@ -4847,13 +5720,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 51716,
         "destination.user.name": "picard",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "reset-both",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4890,6 +5770,11 @@
         "server.user.name": "picard",
         "service.type": "panw",
         "source.address": "74.125.239.3",
+<<<<<<< HEAD
+=======
+        "source.as.number": 15169,
+        "source.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
         "source.geo.location.lat": 37.751,
@@ -4910,13 +5795,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 52119,
         "destination.user.name": "picard",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "reset-both",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4953,6 +5845,11 @@
         "server.user.name": "picard",
         "service.type": "panw",
         "source.address": "74.125.239.3",
+<<<<<<< HEAD
+=======
+        "source.as.number": 15169,
+        "source.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
         "source.geo.location.lat": 37.751,
@@ -4973,13 +5870,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 52411,
         "destination.user.name": "picard",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "reset-both",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5016,6 +5920,11 @@
         "server.user.name": "picard",
         "service.type": "panw",
         "source.address": "74.125.224.200",
+<<<<<<< HEAD
+=======
+        "source.as.number": 15169,
+        "source.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
         "source.geo.location.lat": 37.751,
@@ -5033,19 +5942,31 @@
         "client.port": 52366,
         "client.user.name": "picard",
         "destination.address": "74.125.239.6",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "74.125.239.6",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5099,13 +6020,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 53026,
         "destination.user.name": "picard",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "reset-both",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5142,6 +6070,11 @@
         "server.user.name": "picard",
         "service.type": "panw",
         "source.address": "74.125.224.193",
+<<<<<<< HEAD
+=======
+        "source.as.number": 15169,
+        "source.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
         "source.geo.location.lat": 37.751,
@@ -5162,13 +6095,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 53809,
         "destination.user.name": "picard",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5205,6 +6145,11 @@
         "server.user.name": "picard",
         "service.type": "panw",
         "source.address": "74.125.239.20",
+<<<<<<< HEAD
+=======
+        "source.as.number": 15169,
+        "source.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
         "source.geo.location.lat": 37.751,
@@ -5225,13 +6170,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 55912,
         "destination.user.name": "picard",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5268,6 +6220,11 @@
         "server.user.name": "picard",
         "service.type": "panw",
         "source.address": "208.80.154.225",
+<<<<<<< HEAD
+=======
+        "source.as.number": 14907,
+        "source.as.organization.name": "Wikimedia Foundation Inc.",
+>>>>>>> upstream/master
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
         "source.geo.location.lat": 37.751,
@@ -5288,13 +6245,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 55916,
         "destination.user.name": "picard",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5331,6 +6295,11 @@
         "server.user.name": "picard",
         "service.type": "panw",
         "source.address": "208.80.154.234",
+<<<<<<< HEAD
+=======
+        "source.as.number": 14907,
+        "source.as.organization.name": "Wikimedia Foundation Inc.",
+>>>>>>> upstream/master
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
         "source.geo.location.lat": 37.751,
@@ -5351,13 +6320,20 @@
         "destination.ip": "192.168.0.6",
         "destination.port": 1046,
         "destination.user.name": "jordy",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "reset-both",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5394,6 +6370,11 @@
         "server.user.name": "jordy",
         "service.type": "panw",
         "source.address": "65.54.75.25",
+<<<<<<< HEAD
+=======
+        "source.as.number": 8075,
+        "source.as.organization.name": "Microsoft Corporation",
+>>>>>>> upstream/master
         "source.geo.city_name": "Los Angeles",
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
@@ -5417,13 +6398,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 61734,
         "destination.user.name": "jordy",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "reset-both",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5460,6 +6448,11 @@
         "server.user.name": "jordy",
         "service.type": "panw",
         "source.address": "74.125.224.206",
+<<<<<<< HEAD
+=======
+        "source.as.number": 15169,
+        "source.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
         "source.geo.location.lat": 37.751,
@@ -5480,13 +6473,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 62292,
         "destination.user.name": "jordy",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "reset-both",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5523,6 +6523,11 @@
         "server.user.name": "jordy",
         "service.type": "panw",
         "source.address": "74.125.224.195",
+<<<<<<< HEAD
+=======
+        "source.as.number": 15169,
+        "source.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
         "source.geo.location.lat": 37.751,
@@ -5543,13 +6548,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 64669,
         "destination.user.name": "jordy",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5586,6 +6598,11 @@
         "server.user.name": "jordy",
         "service.type": "panw",
         "source.address": "207.178.96.34",
+<<<<<<< HEAD
+=======
+        "source.as.number": 20376,
+        "source.as.organization.name": "Hubris Communications",
+>>>>>>> upstream/master
         "source.geo.city_name": "Wichita",
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
@@ -5609,13 +6626,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 65265,
         "destination.user.name": "picard",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "reset-both",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5652,6 +6676,11 @@
         "server.user.name": "picard",
         "service.type": "panw",
         "source.address": "74.125.224.195",
+<<<<<<< HEAD
+=======
+        "source.as.number": 15169,
+        "source.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
         "source.geo.location.lat": 37.751,
@@ -5672,13 +6701,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 64979,
         "destination.user.name": "picard",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5715,6 +6751,11 @@
         "server.user.name": "picard",
         "service.type": "panw",
         "source.address": "74.125.239.20",
+<<<<<<< HEAD
+=======
+        "source.as.number": 15169,
+        "source.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
         "source.geo.location.lat": 37.751,
@@ -5735,13 +6776,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 49432,
         "destination.user.name": "picard",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5778,6 +6826,11 @@
         "server.user.name": "picard",
         "service.type": "panw",
         "source.address": "66.152.109.24",
+<<<<<<< HEAD
+=======
+        "source.as.number": 13536,
+        "source.as.organization.name": "Tech Valley Communications",
+>>>>>>> upstream/master
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
         "source.geo.location.lat": 37.751,
@@ -5798,13 +6851,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 49722,
         "destination.user.name": "picard",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "reset-both",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5841,6 +6901,11 @@
         "server.user.name": "picard",
         "service.type": "panw",
         "source.address": "74.125.224.200",
+<<<<<<< HEAD
+=======
+        "source.as.number": 15169,
+        "source.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
         "source.geo.location.lat": 37.751,
@@ -5858,19 +6923,31 @@
         "client.port": 49681,
         "client.user.name": "picard",
         "destination.address": "74.125.224.201",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "74.125.224.201",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5924,13 +7001,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 50108,
         "destination.user.name": "picard",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "reset-both",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5967,6 +7051,11 @@
         "server.user.name": "picard",
         "service.type": "panw",
         "source.address": "74.125.224.200",
+<<<<<<< HEAD
+=======
+        "source.as.number": 15169,
+        "source.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
         "source.geo.location.lat": 37.751,
@@ -5987,13 +7076,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 50387,
         "destination.user.name": "picard",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "reset-both",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -6030,6 +7126,11 @@
         "server.user.name": "picard",
         "service.type": "panw",
         "source.address": "74.125.224.200",
+<<<<<<< HEAD
+=======
+        "source.as.number": 15169,
+        "source.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
         "source.geo.location.lat": 37.751,
@@ -6047,19 +7148,31 @@
         "client.port": 59781,
         "client.user.name": "jordy",
         "destination.address": "208.85.40.48",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 40428,
+        "destination.as.organization.name": "Pandora Media, Inc",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "208.85.40.48",
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -6113,13 +7226,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 60005,
         "destination.user.name": "jordy",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "reset-both",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -6156,6 +7276,11 @@
         "server.user.name": "jordy",
         "service.type": "panw",
         "source.address": "74.125.224.201",
+<<<<<<< HEAD
+=======
+        "source.as.number": 15169,
+        "source.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
         "source.geo.location.lat": 37.751,
@@ -6176,13 +7301,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 60443,
         "destination.user.name": "jordy",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "reset-both",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -6219,6 +7351,11 @@
         "server.user.name": "jordy",
         "service.type": "panw",
         "source.address": "74.125.224.201",
+<<<<<<< HEAD
+=======
+        "source.as.number": 15169,
+        "source.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
         "source.geo.location.lat": 37.751,
@@ -6239,13 +7376,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 60822,
         "destination.user.name": "jordy",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "reset-both",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -6282,6 +7426,11 @@
         "server.user.name": "jordy",
         "service.type": "panw",
         "source.address": "74.125.224.200",
+<<<<<<< HEAD
+=======
+        "source.as.number": 15169,
+        "source.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
         "source.geo.location.lat": 37.751,
@@ -6302,13 +7451,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 61105,
         "destination.user.name": "jordy",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "reset-both",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -6345,6 +7501,11 @@
         "server.user.name": "jordy",
         "service.type": "panw",
         "source.address": "74.125.224.200",
+<<<<<<< HEAD
+=======
+        "source.as.number": 15169,
+        "source.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
         "source.geo.location.lat": 37.751,
@@ -6365,13 +7526,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 60782,
         "destination.user.name": "jordy",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "alert",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -6408,6 +7576,11 @@
         "server.user.name": "jordy",
         "service.type": "panw",
         "source.address": "74.125.224.198",
+<<<<<<< HEAD
+=======
+        "source.as.number": 15169,
+        "source.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
         "source.geo.location.lat": 37.751,
@@ -6428,13 +7601,20 @@
         "destination.ip": "192.168.0.2",
         "destination.port": 61470,
         "destination.user.name": "jordy",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "data_match",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "reset-both",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -6471,6 +7651,11 @@
         "server.user.name": "jordy",
         "service.type": "panw",
         "source.address": "74.125.224.200",
+<<<<<<< HEAD
+=======
+        "source.as.number": 15169,
+        "source.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "source.geo.continent_name": "North America",
         "source.geo.country_iso_code": "US",
         "source.geo.location.lat": 37.751,

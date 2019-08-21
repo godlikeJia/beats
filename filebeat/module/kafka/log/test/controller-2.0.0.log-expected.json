@@ -1,9 +1,15 @@
 [
     {
         "@timestamp": "2018-10-31T15:03:32.474Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.controller.KafkaController",
@@ -15,9 +21,15 @@
     },
     {
         "@timestamp": "2018-10-31T15:03:32.474Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.controller.KafkaController",
@@ -29,9 +41,15 @@
     },
     {
         "@timestamp": "2018-10-31T15:03:32.474Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.controller.KafkaController",
@@ -43,9 +61,15 @@
     },
     {
         "@timestamp": "2018-10-31T15:03:32.475Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.controller.KafkaController",
@@ -57,9 +81,15 @@
     },
     {
         "@timestamp": "2018-10-31T15:03:32.475Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.controller.KafkaController",
@@ -71,9 +101,15 @@
     },
     {
         "@timestamp": "2018-10-31T15:03:32.475Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.controller.KafkaController",
@@ -85,9 +121,15 @@
     },
     {
         "@timestamp": "2018-10-31T15:03:32.475Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.controller.KafkaController",
@@ -99,9 +141,15 @@
     },
     {
         "@timestamp": "2018-10-31T15:03:32.475Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.controller.KafkaController",
@@ -113,9 +161,15 @@
     },
     {
         "@timestamp": "2018-10-31T15:08:32.475Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.controller.KafkaController",
@@ -127,9 +181,15 @@
     },
     {
         "@timestamp": "2018-10-31T15:08:32.475Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.controller.KafkaController",
@@ -141,9 +201,15 @@
     },
     {
         "@timestamp": "2018-10-31T15:08:32.475Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.controller.KafkaController",
@@ -155,9 +221,15 @@
     },
     {
         "@timestamp": "2018-10-31T15:08:32.475Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.controller.KafkaController",
@@ -169,9 +241,15 @@
     },
     {
         "@timestamp": "2018-10-31T15:08:32.475Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.controller.KafkaController",
@@ -183,9 +261,15 @@
     },
     {
         "@timestamp": "2018-10-31T15:08:32.475Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.controller.KafkaController",
@@ -197,9 +281,15 @@
     },
     {
         "@timestamp": "2018-10-31T15:08:32.475Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.controller.KafkaController",
@@ -211,9 +301,15 @@
     },
     {
         "@timestamp": "2018-10-31T15:08:32.475Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.controller.KafkaController",
@@ -225,9 +321,15 @@
     },
     {
         "@timestamp": "2018-10-31T15:09:30.306Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.controller.KafkaController",
@@ -239,9 +341,15 @@
     },
     {
         "@timestamp": "2018-10-31T15:09:30.307Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.controller.KafkaController",
@@ -253,9 +361,15 @@
     },
     {
         "@timestamp": "2018-10-31T15:09:30.396Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.controller.RequestSendThread",
@@ -267,9 +381,15 @@
     },
     {
         "@timestamp": "2018-10-31T15:09:30.397Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.controller.RequestSendThread",
@@ -281,9 +401,15 @@
     },
     {
         "@timestamp": "2018-10-31T15:09:30.396Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.controller.RequestSendThread",
@@ -295,9 +421,15 @@
     },
     {
         "@timestamp": "2018-10-31T15:13:32.475Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "kafka.log",
         "event.module": "kafka",
+=======
+        "event.dataset": "kafka.log",
+        "event.module": "kafka",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "log",
         "input.type": "log",
         "kafka.log.class": "kafka.controller.KafkaController",

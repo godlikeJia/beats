@@ -6,6 +6,11 @@
         "client.packets": 20,
         "client.port": 55113,
         "destination.address": "184.51.253.152",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 16625,
+        "destination.as.organization.name": "Akamai Technologies, Inc.",
+>>>>>>> upstream/master
         "destination.bytes": 1758,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -14,7 +19,10 @@
         "destination.ip": "184.51.253.152",
         "destination.packets": 16,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -23,6 +31,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T15:59:04.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -80,6 +92,11 @@
         "client.packets": 6,
         "client.port": 0,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 588,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -88,7 +105,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 6,
         "destination.port": 0,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -97,6 +117,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:08:55.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -154,6 +178,11 @@
         "client.packets": 5,
         "client.port": 55114,
         "destination.address": "17.253.3.202",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 6185,
+        "destination.as.organization.name": "Apple Inc.",
+>>>>>>> upstream/master
         "destination.bytes": 539,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -162,7 +191,10 @@
         "destination.ip": "17.253.3.202",
         "destination.packets": 6,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -171,6 +203,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:08:51.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -228,6 +264,11 @@
         "client.packets": 6,
         "client.port": 0,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 588,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -236,7 +277,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 6,
         "destination.port": 0,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -245,6 +289,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:01.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -302,6 +350,11 @@
         "client.packets": 3,
         "client.port": 46774,
         "destination.address": "216.58.194.99",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 2014,
         "destination.geo.city_name": "Mountain View",
         "destination.geo.continent_name": "North America",
@@ -313,7 +366,10 @@
         "destination.ip": "216.58.194.99",
         "destination.packets": 5,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -322,6 +378,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:07:13.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -379,6 +439,11 @@
         "client.packets": 51,
         "client.port": 52408,
         "destination.address": "209.234.224.22",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 395162,
+        "destination.as.organization.name": "Markit On Demand, Inc.",
+>>>>>>> upstream/master
         "destination.bytes": 20642,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -387,7 +452,10 @@
         "destination.ip": "209.234.224.22",
         "destination.packets": 62,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -396,6 +464,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:07:33.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -453,6 +525,11 @@
         "client.packets": 6,
         "client.port": 0,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 588,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -461,7 +538,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 6,
         "destination.port": 0,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -470,6 +550,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:07.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -527,6 +611,11 @@
         "client.packets": 9,
         "client.port": 59190,
         "destination.address": "172.217.2.238",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 3365,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -535,7 +624,10 @@
         "destination.ip": "172.217.2.238",
         "destination.packets": 7,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -544,6 +636,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:07:04.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -601,6 +697,11 @@
         "client.packets": 1,
         "client.port": 49728,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 80,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -609,7 +710,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -618,6 +722,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:08:50.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -675,6 +783,11 @@
         "client.packets": 1,
         "client.port": 50500,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 77,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -683,7 +796,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -692,6 +808,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:08:51.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -749,6 +869,11 @@
         "client.packets": 16,
         "client.port": 55112,
         "destination.address": "17.249.60.78",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 714,
+        "destination.as.organization.name": "Apple Inc.",
+>>>>>>> upstream/master
         "destination.bytes": 4509,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -757,7 +882,10 @@
         "destination.ip": "17.249.60.78",
         "destination.packets": 16,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -766,6 +894,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T15:58:59.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -823,6 +955,11 @@
         "client.packets": 1,
         "client.port": 57632,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 73,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -831,7 +968,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -840,6 +980,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:08:52.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -897,6 +1041,11 @@
         "client.packets": 1,
         "client.port": 50271,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 69,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -905,7 +1054,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -914,6 +1066,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:08:52.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -971,6 +1127,11 @@
         "client.packets": 1,
         "client.port": 54061,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 85,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -979,7 +1140,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -988,6 +1152,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:08:52.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -1045,6 +1213,11 @@
         "client.packets": 1,
         "client.port": 52701,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 75,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1053,7 +1226,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -1062,6 +1238,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:08:52.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -1119,6 +1299,11 @@
         "client.packets": 6,
         "client.port": 0,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 588,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1127,7 +1312,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 6,
         "destination.port": 0,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -1136,6 +1324,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:13.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -1193,6 +1385,11 @@
         "client.packets": 1,
         "client.port": 62503,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 97,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1201,7 +1398,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -1210,6 +1410,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:08:54.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -1267,6 +1471,11 @@
         "client.packets": 13,
         "client.port": 52442,
         "destination.address": "98.138.49.44",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 36646,
+        "destination.as.organization.name": "Yahoo",
+>>>>>>> upstream/master
         "destination.bytes": 2086,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1275,7 +1484,10 @@
         "destination.ip": "98.138.49.44",
         "destination.packets": 14,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -1284,6 +1496,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:08:54.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -1341,6 +1557,11 @@
         "client.packets": 11,
         "client.port": 52441,
         "destination.address": "72.30.3.43",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 26101,
+        "destination.as.organization.name": "Yahoo!",
+>>>>>>> upstream/master
         "destination.bytes": 2354,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1349,7 +1570,10 @@
         "destination.ip": "72.30.3.43",
         "destination.packets": 13,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -1358,6 +1582,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:08:54.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -1415,6 +1643,11 @@
         "client.packets": 2,
         "client.port": 0,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 196,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1423,7 +1656,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 2,
         "destination.port": 0,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -1432,6 +1668,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:15.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -1489,6 +1729,11 @@
         "client.packets": 17,
         "client.port": 52355,
         "destination.address": "172.217.9.142",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 2545,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1497,7 +1742,10 @@
         "destination.ip": "172.217.9.142",
         "destination.packets": 19,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -1506,6 +1754,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:07:16.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -1563,6 +1815,11 @@
         "client.packets": 1,
         "client.port": 50196,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 82,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1571,7 +1828,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -1580,6 +1840,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:08:57.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -1637,6 +1901,11 @@
         "client.packets": 12,
         "client.port": 52454,
         "destination.address": "54.84.80.198",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.bytes": 1758,
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
@@ -1648,7 +1917,10 @@
         "destination.ip": "54.84.80.198",
         "destination.packets": 13,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -1657,6 +1929,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:13.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -1725,7 +2001,10 @@
         "destination.ip": "199.167.55.52",
         "destination.packets": 8,
         "destination.port": 4282,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_dropped",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -1734,6 +2013,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:12.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -1791,6 +2074,11 @@
         "client.packets": 6,
         "client.port": 0,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 588,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1799,7 +2087,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 6,
         "destination.port": 0,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_denied",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -1808,6 +2099,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:19.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -1865,6 +2160,11 @@
         "client.packets": 1,
         "client.port": 35485,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 85,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1873,7 +2173,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
         "event.duration": 0,
@@ -1881,6 +2184,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:02.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -1938,6 +2245,11 @@
         "client.packets": 6,
         "client.port": 62730,
         "destination.address": "172.217.9.142",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 2876,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1946,7 +2258,10 @@
         "destination.ip": "172.217.9.142",
         "destination.packets": 6,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
         "event.duration": 15000000000,
@@ -1954,6 +2269,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:07:20.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2011,6 +2330,11 @@
         "client.packets": 5,
         "client.port": 52506,
         "destination.address": "151.101.2.2",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 54113,
+        "destination.as.organization.name": "Fastly",
+>>>>>>> upstream/master
         "destination.bytes": 1100,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -2019,7 +2343,10 @@
         "destination.ip": "151.101.2.2",
         "destination.packets": 8,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -2028,6 +2355,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:21.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2085,6 +2416,11 @@
         "client.packets": 4,
         "client.port": 60596,
         "destination.address": "216.58.194.66",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 1977,
         "destination.geo.city_name": "Mountain View",
         "destination.geo.continent_name": "North America",
@@ -2096,7 +2432,10 @@
         "destination.ip": "216.58.194.66",
         "destination.packets": 5,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -2105,6 +2444,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:07:36.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2162,6 +2505,11 @@
         "client.packets": 6,
         "client.port": 0,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 588,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -2170,7 +2518,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 6,
         "destination.port": 0,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -2179,6 +2530,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:25.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2236,6 +2591,11 @@
         "client.packets": 2,
         "client.port": 0,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 196,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -2244,7 +2604,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 2,
         "destination.port": 0,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -2253,6 +2616,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:25.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2310,6 +2677,11 @@
         "client.packets": 10,
         "client.port": 52514,
         "destination.address": "184.51.253.193",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 16625,
+        "destination.as.organization.name": "Akamai Technologies, Inc.",
+>>>>>>> upstream/master
         "destination.bytes": 2228,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -2318,7 +2690,10 @@
         "destination.ip": "184.51.253.193",
         "destination.packets": 12,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -2327,6 +2702,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:22.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2384,6 +2763,11 @@
         "client.packets": 1,
         "client.port": 55155,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 96,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -2392,7 +2776,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -2401,6 +2788,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:08.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2469,7 +2860,10 @@
         "destination.ip": "199.167.55.52",
         "destination.packets": 1,
         "destination.port": 4282,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -2478,6 +2872,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:33.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2535,6 +2933,11 @@
         "client.packets": 9,
         "client.port": 52516,
         "destination.address": "199.167.52.219",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 54538,
+        "destination.as.organization.name": "PALO ALTO NETWORKS",
+>>>>>>> upstream/master
         "destination.bytes": 1086,
         "destination.geo.city_name": "Santa Clara",
         "destination.geo.continent_name": "North America",
@@ -2546,7 +2949,10 @@
         "destination.ip": "199.167.52.219",
         "destination.packets": 11,
         "destination.port": 17472,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -2555,6 +2961,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:25.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2612,6 +3022,11 @@
         "client.packets": 19,
         "client.port": 52511,
         "destination.address": "52.71.117.196",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.bytes": 2628,
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
@@ -2623,7 +3038,10 @@
         "destination.ip": "52.71.117.196",
         "destination.packets": 19,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -2632,6 +3050,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:21.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2689,6 +3111,11 @@
         "client.packets": 1,
         "client.port": 3018,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 79,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -2697,7 +3124,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -2706,6 +3136,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:12.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2763,6 +3197,11 @@
         "client.packets": 1,
         "client.port": 16569,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 95,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -2771,7 +3210,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -2780,6 +3222,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:12.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2837,6 +3283,11 @@
         "client.packets": 20,
         "client.port": 52479,
         "destination.address": "35.186.194.41",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 4296,
         "destination.geo.city_name": "Mountain View",
         "destination.geo.continent_name": "North America",
@@ -2848,7 +3299,10 @@
         "destination.ip": "35.186.194.41",
         "destination.packets": 24,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -2857,6 +3311,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:19.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2914,6 +3372,11 @@
         "client.packets": 41,
         "client.port": 52478,
         "destination.address": "35.201.124.9",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 58831,
         "destination.geo.continent_name": "Asia",
         "destination.geo.location.lat": 35.0,
@@ -2921,7 +3384,10 @@
         "destination.ip": "35.201.124.9",
         "destination.packets": 63,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -2930,6 +3396,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:19.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2987,6 +3457,11 @@
         "client.packets": 15,
         "client.port": 52502,
         "destination.address": "100.24.131.237",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.bytes": 4069,
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
@@ -2998,7 +3473,10 @@
         "destination.ip": "100.24.131.237",
         "destination.packets": 17,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -3007,6 +3485,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:21.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -3064,6 +3546,11 @@
         "client.packets": 7,
         "client.port": 52458,
         "destination.address": "184.51.252.247",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 16625,
+        "destination.as.organization.name": "Akamai Technologies, Inc.",
+>>>>>>> upstream/master
         "destination.bytes": 1100,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -3072,7 +3559,10 @@
         "destination.ip": "184.51.252.247",
         "destination.packets": 8,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -3081,6 +3571,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:14.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -3138,6 +3632,11 @@
         "client.packets": 16,
         "client.port": 52484,
         "destination.address": "35.190.88.148",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 3596,
         "destination.geo.city_name": "Mountain View",
         "destination.geo.continent_name": "North America",
@@ -3149,7 +3648,10 @@
         "destination.ip": "35.190.88.148",
         "destination.packets": 15,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -3158,6 +3660,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:19.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -3215,6 +3721,11 @@
         "client.packets": 16,
         "client.port": 52482,
         "destination.address": "35.186.243.83",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 3596,
         "destination.geo.city_name": "Mountain View",
         "destination.geo.continent_name": "North America",
@@ -3226,7 +3737,10 @@
         "destination.ip": "35.186.243.83",
         "destination.packets": 15,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -3235,6 +3749,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:19.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -3292,6 +3810,11 @@
         "client.packets": 1,
         "client.port": 33769,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 84,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -3300,7 +3823,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -3309,6 +3835,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:12.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -3366,6 +3896,11 @@
         "client.packets": 1,
         "client.port": 14106,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 74,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -3374,7 +3909,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -3383,6 +3921,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:12.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -3440,6 +3982,11 @@
         "client.packets": 13,
         "client.port": 52503,
         "destination.address": "100.24.165.74",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.bytes": 2731,
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
@@ -3451,7 +3998,10 @@
         "destination.ip": "100.24.165.74",
         "destination.packets": 17,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -3460,6 +4010,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:21.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -3517,6 +4071,11 @@
         "client.packets": 7,
         "client.port": 52459,
         "destination.address": "184.51.252.247",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 16625,
+        "destination.as.organization.name": "Akamai Technologies, Inc.",
+>>>>>>> upstream/master
         "destination.bytes": 1100,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -3525,7 +4084,10 @@
         "destination.ip": "184.51.252.247",
         "destination.packets": 8,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -3534,6 +4096,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:14.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -3591,6 +4157,11 @@
         "client.packets": 16,
         "client.port": 52483,
         "destination.address": "35.201.94.140",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 3596,
         "destination.geo.continent_name": "Asia",
         "destination.geo.location.lat": 35.0,
@@ -3598,7 +4169,10 @@
         "destination.ip": "35.201.94.140",
         "destination.packets": 15,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -3607,6 +4181,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:19.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -3664,6 +4242,11 @@
         "client.packets": 6,
         "client.port": 0,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 588,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -3672,7 +4255,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 6,
         "destination.port": 0,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -3681,6 +4267,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:31.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -3736,6 +4326,11 @@
         "client.packets": 1,
         "client.port": 38663,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 84,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -3744,7 +4339,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -3753,6 +4351,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:13.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -3810,6 +4412,11 @@
         "client.packets": 1,
         "client.port": 50443,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 131,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -3818,7 +4425,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -3827,6 +4437,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:13.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -3884,6 +4498,11 @@
         "client.packets": 1,
         "client.port": 54215,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 131,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -3892,7 +4511,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -3901,6 +4523,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:13.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -3958,6 +4584,11 @@
         "client.packets": 1,
         "client.port": 35827,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 83,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -3966,7 +4597,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -3975,6 +4609,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:13.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -4032,6 +4670,11 @@
         "client.packets": 1,
         "client.port": 60609,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 100,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4040,7 +4683,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -4049,6 +4695,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:13.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -4106,6 +4756,11 @@
         "client.packets": 1,
         "client.port": 3248,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 79,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4114,7 +4769,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -4123,6 +4781,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:13.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -4180,6 +4842,11 @@
         "client.packets": 1,
         "client.port": 49284,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 89,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4188,7 +4855,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -4197,6 +4867,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:13.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -4254,6 +4928,11 @@
         "client.packets": 1,
         "client.port": 57732,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 97,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4262,7 +4941,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -4271,6 +4953,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:13.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -4328,6 +5014,11 @@
         "client.packets": 1,
         "client.port": 49195,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4336,7 +5027,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -4345,6 +5039,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:13.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -4402,6 +5100,11 @@
         "client.packets": 1,
         "client.port": 17266,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 73,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4410,7 +5113,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -4419,6 +5125,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:13.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -4476,6 +5186,11 @@
         "client.packets": 1,
         "client.port": 48631,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 90,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4484,7 +5199,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -4493,6 +5211,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:13.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -4550,6 +5272,11 @@
         "client.packets": 1,
         "client.port": 58540,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 77,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4558,7 +5285,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -4567,6 +5297,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:13.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -4624,6 +5358,11 @@
         "client.packets": 1,
         "client.port": 42678,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 74,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4632,7 +5371,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -4641,6 +5383,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:13.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -4698,6 +5444,11 @@
         "client.packets": 1,
         "client.port": 16576,
         "destination.address": "66.28.0.45",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 174,
+        "destination.as.organization.name": "Cogent Communications",
+>>>>>>> upstream/master
         "destination.bytes": 76,
         "destination.geo.city_name": "Upper Marlboro",
         "destination.geo.continent_name": "North America",
@@ -4709,7 +5460,10 @@
         "destination.ip": "66.28.0.45",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -4718,6 +5472,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:14.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -4775,6 +5533,11 @@
         "client.packets": 1,
         "client.port": 39830,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 89,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4783,7 +5546,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -4792,6 +5558,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:14.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -4849,6 +5619,11 @@
         "client.packets": 1,
         "client.port": 6185,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 71,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4857,7 +5632,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -4866,6 +5644,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:14.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -4923,6 +5705,11 @@
         "client.packets": 1,
         "client.port": 8781,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 80,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4931,7 +5718,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -4940,6 +5730,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:14.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -4997,6 +5791,11 @@
         "client.packets": 1,
         "client.port": 16788,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 72,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -5005,7 +5804,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -5014,6 +5816,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:14.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -5071,6 +5877,11 @@
         "client.packets": 1,
         "client.port": 45307,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 76,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -5079,7 +5890,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -5088,6 +5902,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:14.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -5145,6 +5963,11 @@
         "client.packets": 5,
         "client.port": 52520,
         "destination.address": "23.52.174.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 20940,
+        "destination.as.organization.name": "Akamai International B.V.",
+>>>>>>> upstream/master
         "destination.bytes": 681,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -5153,7 +5976,10 @@
         "destination.ip": "23.52.174.25",
         "destination.packets": 6,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -5162,6 +5988,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:29.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -5219,6 +6049,11 @@
         "client.packets": 1,
         "client.port": 8503,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 79,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -5227,7 +6062,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -5236,6 +6074,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:13.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -5293,6 +6135,11 @@
         "client.packets": 1,
         "client.port": 6910,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 82,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -5301,7 +6148,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -5310,6 +6160,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:14.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -5367,6 +6221,11 @@
         "client.packets": 4,
         "client.port": 52475,
         "destination.address": "54.230.5.228",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 16509,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.bytes": 354,
         "destination.geo.city_name": "Seattle",
         "destination.geo.continent_name": "North America",
@@ -5378,7 +6237,10 @@
         "destination.ip": "54.230.5.228",
         "destination.packets": 5,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -5387,6 +6249,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:17.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -5444,6 +6310,11 @@
         "client.packets": 1,
         "client.port": 14342,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 76,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -5452,7 +6323,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -5461,6 +6335,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:14.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -5518,6 +6396,11 @@
         "client.packets": 1,
         "client.port": 48197,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 71,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -5526,7 +6409,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -5535,6 +6421,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:15.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -5592,6 +6482,11 @@
         "client.packets": 1,
         "client.port": 32296,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 75,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -5600,7 +6495,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -5609,6 +6507,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:15.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -5666,6 +6568,11 @@
         "client.packets": 1,
         "client.port": 33870,
         "destination.address": "208.83.246.20",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 30303,
+        "destination.as.organization.name": "Ooma, Inc.",
+>>>>>>> upstream/master
         "destination.bytes": 90,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -5674,7 +6581,10 @@
         "destination.ip": "208.83.246.20",
         "destination.packets": 1,
         "destination.port": 123,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -5683,6 +6593,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:15.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -5740,6 +6654,11 @@
         "client.packets": 2,
         "client.port": 54659,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 148,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -5748,7 +6667,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 2,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -5757,6 +6679,10 @@
         "event.module": "panw",
         "event.outcome": "drop-icmp",
         "event.start": "2018-11-30T16:09:16.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -5814,6 +6740,11 @@
         "client.packets": 1,
         "client.port": 57446,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 83,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -5822,7 +6753,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -5831,6 +6765,10 @@
         "event.module": "panw",
         "event.outcome": "reset-client",
         "event.start": "2018-11-30T16:09:16.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -5888,6 +6826,11 @@
         "client.packets": 1,
         "client.port": 22655,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 84,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -5896,7 +6839,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -5905,6 +6851,10 @@
         "event.module": "panw",
         "event.outcome": "reset-server",
         "event.start": "2018-11-30T16:09:16.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -5962,6 +6912,11 @@
         "client.packets": 11,
         "client.port": 52509,
         "destination.address": "35.185.88.112",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 2053,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -5972,7 +6927,10 @@
         "destination.ip": "35.185.88.112",
         "destination.packets": 13,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -5981,6 +6939,10 @@
         "event.module": "panw",
         "event.outcome": "reset-both",
         "event.start": "2018-11-30T16:09:21.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -6038,6 +7000,11 @@
         "client.packets": 1,
         "client.port": 27192,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 93,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -6046,7 +7013,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -6055,6 +7025,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:16.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -6112,6 +7086,11 @@
         "client.packets": 1,
         "client.port": 30221,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 84,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -6120,7 +7099,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -6129,6 +7111,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:16.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -6186,6 +7172,11 @@
         "client.packets": 1,
         "client.port": 30570,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 64,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -6194,7 +7185,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -6203,6 +7197,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:16.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -6260,6 +7258,11 @@
         "client.packets": 7,
         "client.port": 52497,
         "destination.address": "50.19.85.24",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.bytes": 1100,
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
@@ -6271,7 +7274,10 @@
         "destination.ip": "50.19.85.24",
         "destination.packets": 8,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -6280,6 +7286,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:21.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -6337,6 +7347,11 @@
         "client.packets": 7,
         "client.port": 52498,
         "destination.address": "50.19.85.24",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.bytes": 1100,
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
@@ -6348,7 +7363,10 @@
         "destination.ip": "50.19.85.24",
         "destination.packets": 8,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -6357,6 +7375,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:21.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -6414,6 +7436,11 @@
         "client.packets": 7,
         "client.port": 52496,
         "destination.address": "50.19.85.24",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.bytes": 1100,
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
@@ -6425,7 +7452,10 @@
         "destination.ip": "50.19.85.24",
         "destination.packets": 8,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -6434,6 +7464,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:21.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -6491,6 +7525,11 @@
         "client.packets": 10,
         "client.port": 52510,
         "destination.address": "104.254.150.9",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 29990,
+        "destination.as.organization.name": "AppNexus, Inc",
+>>>>>>> upstream/master
         "destination.bytes": 2691,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -6499,7 +7538,10 @@
         "destination.ip": "104.254.150.9",
         "destination.packets": 12,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -6508,6 +7550,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:21.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -6565,6 +7611,11 @@
         "client.packets": 7,
         "client.port": 52495,
         "destination.address": "50.19.85.24",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.bytes": 1100,
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
@@ -6576,7 +7627,10 @@
         "destination.ip": "50.19.85.24",
         "destination.packets": 8,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -6585,6 +7639,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:21.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -6642,6 +7700,11 @@
         "client.packets": 3,
         "client.port": 52486,
         "destination.address": "52.0.218.108",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.bytes": 276,
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
@@ -6653,7 +7716,10 @@
         "destination.ip": "52.0.218.108",
         "destination.packets": 4,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -6662,6 +7728,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:20.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -6719,6 +7789,11 @@
         "client.packets": 3,
         "client.port": 52489,
         "destination.address": "52.6.117.19",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.bytes": 276,
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
@@ -6730,7 +7805,10 @@
         "destination.ip": "52.6.117.19",
         "destination.packets": 4,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -6739,6 +7817,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:20.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -6796,6 +7878,11 @@
         "client.packets": 3,
         "client.port": 52490,
         "destination.address": "34.238.96.22",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.bytes": 276,
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
@@ -6807,7 +7894,10 @@
         "destination.ip": "34.238.96.22",
         "destination.packets": 4,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -6816,6 +7906,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:20.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -6873,6 +7967,11 @@
         "client.packets": 4,
         "client.port": 52493,
         "destination.address": "130.211.47.17",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 276,
         "destination.geo.city_name": "Mountain View",
         "destination.geo.continent_name": "North America",
@@ -6884,7 +7983,10 @@
         "destination.ip": "130.211.47.17",
         "destination.packets": 4,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -6893,6 +7995,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:20.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -6950,6 +8056,11 @@
         "client.packets": 1,
         "client.port": 59320,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 97,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -6958,7 +8069,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -6967,6 +8081,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:18.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -7024,6 +8142,11 @@
         "client.packets": 6,
         "client.port": 0,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 588,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -7032,7 +8155,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 6,
         "destination.port": 0,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -7041,6 +8167,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:37.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -7098,6 +8228,11 @@
         "client.packets": 1,
         "client.port": 13076,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -7106,7 +8241,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -7115,6 +8253,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:19.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -7172,6 +8314,11 @@
         "client.packets": 1,
         "client.port": 5511,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 72,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -7180,7 +8327,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -7189,6 +8339,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:19.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -7246,6 +8400,11 @@
         "client.packets": 1,
         "client.port": 9799,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -7254,7 +8413,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -7263,6 +8425,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:19.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -7320,6 +8486,11 @@
         "client.packets": 1,
         "client.port": 39169,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -7328,7 +8499,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -7337,6 +8511,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:19.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -7394,6 +8572,11 @@
         "client.packets": 1,
         "client.port": 42476,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 72,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -7402,7 +8585,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -7411,6 +8597,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2018-11-30T16:09:19.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,

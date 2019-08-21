@@ -19,14 +19,18 @@ package http
 
 import (
 	"bytes"
+	"encoding/json"
 	"fmt"
 	"net"
 	"net/url"
 	"strings"
+	"sync/atomic"
 	"time"
 
+	_ "github.com/golang/protobuf/proto"
 	"github.com/pkg/errors"
 
+	//profile "NewApp/Proto"
 	"github.com/elastic/beats/libbeat/beat"
 	"github.com/elastic/beats/libbeat/common"
 	"github.com/elastic/beats/libbeat/logp"
@@ -34,6 +38,7 @@ import (
 	"github.com/elastic/beats/packetbeat/pb"
 	"github.com/elastic/beats/packetbeat/procs"
 	"github.com/elastic/beats/packetbeat/protos"
+	"github.com/elastic/beats/packetbeat/protos/http/pb2json"
 	"github.com/elastic/ecs/code/go/ecs"
 )
 
@@ -54,6 +59,14 @@ const (
 var (
 	unmatchedResponses = monitoring.NewInt(nil, "http.unmatched_responses")
 	unmatchedRequests  = monitoring.NewInt(nil, "http.unmatched_requests")
+	goParsedFailed     uint64
+	_pad0              [7]uint64
+	goParsedOk         uint64
+	_pad1              [7]uint64
+	cppParsedFailed    uint64
+	_pad2              [7]uint64
+	cppParsedOk        uint64
+	_pad3              [7]uint64
 )
 
 type stream struct {
@@ -89,6 +102,8 @@ type httpPlugin struct {
 	redactAuthorization bool
 	maxMessageSize      int
 	mustDecodeBody      bool
+	pbMessage           string
+	pbInit              bool
 
 	parserConfig parserConfig
 
@@ -128,10 +143,31 @@ func New(
 // Init initializes the HTTP protocol analyser.
 func (http *httpPlugin) init(results protos.Reporter, config *httpConfig) error {
 	http.setFromConfig(config)
+	logp.Info("json2pb dir: %s file: %s message: %s", config.PbDir, config.PbFile, config.PbMessage)
+	err := pb2json.Init(config.PbDir, config.PbFile)
+	if err != nil {
+		logp.Warn("pb2json.Init failed. %v", err)
+		http.pbInit = false
+	} else {
+		http.pbInit = true
+	}
 
 	isDebug = logp.IsDebug("http")
 	isDetailed = logp.IsDebug("httpdetailed")
 	http.results = results
+	go func() {
+		ticker := time.NewTicker(time.Second * 10)
+		for {
+			select {
+			case <-ticker.C:
+				logp.Warn("ParseStat cppParsedOk: %d cppParseFailed: %d goParsedOk: %d, goParseFailed: %d",
+					atomic.LoadUint64(&cppParsedOk),
+					atomic.LoadUint64(&cppParsedFailed),
+					atomic.LoadUint64(&goParsedOk),
+					atomic.LoadUint64(&goParsedFailed))
+			}
+		}
+	}()
 	return nil
 }
 
@@ -145,6 +181,7 @@ func (http *httpPlugin) setFromConfig(config *httpConfig) {
 	http.parserConfig.realIPHeader = strings.ToLower(config.RealIPHeader)
 	http.transactionTimeout = config.TransactionTimeout
 	http.mustDecodeBody = config.DecodeBody
+	http.pbMessage = config.PbMessage
 
 	for _, list := range [][]string{config.IncludeBodyFor, config.IncludeRequestBodyFor} {
 		http.parserConfig.includeRequestBodyFor = append(http.parserConfig.includeRequestBodyFor, list...)
@@ -584,6 +621,39 @@ func (http *httpPlugin) newTransaction(requ, resp *message) beat.Event {
 		if resp.sendBody && len(resp.body) > 0 {
 			httpFields.ResponseBodyBytes = int64(len(resp.body))
 			httpFields.ResponseBodyContent = common.NetString(resp.body)
+			if http.pbInit {
+				if len(resp.body) == resp.contentLength {
+					jsonStr, err := pb2json.Pb2Json(http.pbMessage, resp.body, len(resp.body))
+					if err == nil {
+						atomic.AddUint64(&cppParsedOk, 1)
+						err = json.Unmarshal(jsonStr, &httpFields.ParsedResonpseBody)
+						if err != nil {
+							logp.Warn("json.Unmarshal failed, %s", string(jsonStr))
+						}
+					} else {
+						atomic.AddUint64(&cppParsedFailed, 1)
+						logp.Warn("pb2json.Pb2Json failed, ResponseBytes: %d ResponseBodyBytes: %d contentLength: %d %v",
+							httpFields.ResponseBytes, httpFields.ResponseBodyBytes, resp.contentLength, err)
+					}
+				} else {
+					logp.Warn("body length mismatch, len(resp.body): %d resp.contentLength: %d", len(resp.body), resp.contentLength)
+				}
+
+				/*
+					parsed := &profile.Profile{}
+					err = proto.Unmarshal(resp.body[:httpFields.ResponseBodyBytes], parsed)
+					if err != nil {
+						atomic.AddUint64(&goParsedFailed, 1)
+						logp.Warn("proto.Unmarshal failed. %s", err)
+					} else {
+						atomic.AddUint64(&goParsedOk, 1)
+						jsonStr, err = json.Marshal(parsed)
+						err = json.Unmarshal(jsonStr, &httpFields.ParsedResonpseBody)
+						if err != nil {
+							logp.Warn("json.Unmarshal failed. %s", err)
+						}
+					}*/
+			}
 		}
 		httpFields.ResponseHeaders = http.collectHeaders(resp)
 

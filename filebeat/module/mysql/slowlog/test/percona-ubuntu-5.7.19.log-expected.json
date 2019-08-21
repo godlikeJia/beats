@@ -1,7 +1,10 @@
 [
     {
         "@timestamp": "2018-11-16T06:25:56.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "mysql.slowlog",
         "event.duration": 10569000,
         "event.module": "mysql",
@@ -40,7 +43,10 @@
     },
     {
         "@timestamp": "2018-11-16T13:02:59.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "mysql.slowlog",
         "event.duration": 36112000,
         "event.module": "mysql",
@@ -86,7 +92,10 @@
     },
     {
         "@timestamp": "2019-01-21T06:33:10.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "mysql.slowlog",
         "event.duration": 23385000,
         "event.module": "mysql",
@@ -125,7 +134,10 @@
     },
     {
         "@timestamp": "2019-01-21T06:34:30.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "mysql.slowlog",
         "event.duration": 10278000,
         "event.module": "mysql",
@@ -166,7 +178,10 @@
     },
     {
         "@timestamp": "2019-01-21T06:35:33.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "mysql.slowlog",
         "event.duration": 14315000,
         "event.module": "mysql",
@@ -205,7 +220,10 @@
     },
     {
         "@timestamp": "2019-01-21T06:36:03.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "mysql.slowlog",
         "event.duration": 50365000,
         "event.module": "mysql",
@@ -244,7 +262,10 @@
     },
     {
         "@timestamp": "2019-01-21T06:36:40.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "mysql.slowlog",
         "event.duration": 32463768000,
         "event.module": "mysql",
@@ -290,7 +311,10 @@
     },
     {
         "@timestamp": "2019-01-21T09:15:36.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "mysql.slowlog",
         "event.duration": 153883488000,
         "event.module": "mysql",

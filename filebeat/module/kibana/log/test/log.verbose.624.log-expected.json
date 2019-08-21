@@ -1,7 +1,10 @@
 [
     {
         "@timestamp": "2018-05-09T10:58:59.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -22,7 +25,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:58:59.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -56,7 +62,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:58:59.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -77,7 +86,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:58:59.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -98,7 +110,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:58:59.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -119,7 +134,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:58:59.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -140,7 +158,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:58:59.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -161,7 +182,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:58:59.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -182,7 +206,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:58:59.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -203,7 +230,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:58:59.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -224,7 +254,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:58:59.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -245,7 +278,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:58:59.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -266,7 +302,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:58:59.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -287,7 +326,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:58:59.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -308,7 +350,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:58:59.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -329,7 +374,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:58:59.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -350,7 +398,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:58:59.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -371,7 +422,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:58:59.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -392,7 +446,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:58:59.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -413,7 +470,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:58:59.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -434,7 +494,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -454,7 +517,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -477,7 +543,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -501,7 +570,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -523,7 +595,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -547,7 +622,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -571,7 +649,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -595,7 +676,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -619,7 +703,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -641,7 +728,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -665,7 +755,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -689,7 +782,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -713,7 +809,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -737,7 +836,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -759,7 +861,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -781,7 +886,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -803,7 +911,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -825,7 +936,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -847,7 +961,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -869,7 +986,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -892,7 +1012,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -914,7 +1037,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -936,7 +1062,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -958,7 +1087,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -980,7 +1112,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1003,7 +1138,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1027,7 +1165,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1051,7 +1192,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1075,7 +1219,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1099,7 +1246,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1119,7 +1269,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1139,7 +1292,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1163,7 +1319,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1187,7 +1346,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1211,7 +1373,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:01.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1235,7 +1400,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:01.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1261,7 +1429,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:01.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1285,7 +1456,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:01.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1309,7 +1483,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:01.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1332,7 +1509,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:01.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1356,7 +1536,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:01.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1379,7 +1562,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:01.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1400,7 +1586,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:01.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1421,7 +1610,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1441,7 +1633,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1461,7 +1656,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1485,7 +1683,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1505,7 +1706,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1525,7 +1729,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1546,7 +1753,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1568,7 +1778,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1589,7 +1802,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1611,7 +1827,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1632,7 +1851,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1652,7 +1874,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1672,7 +1897,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1696,7 +1924,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1717,7 +1948,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1738,7 +1972,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1758,7 +1995,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1782,7 +2022,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1806,7 +2049,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1830,7 +2076,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1854,7 +2103,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1878,7 +2130,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1902,7 +2157,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1926,7 +2184,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1950,7 +2211,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1974,7 +2238,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -1998,7 +2265,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -2019,7 +2289,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -2040,7 +2313,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -2061,7 +2337,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -2082,7 +2361,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -2103,7 +2385,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -2124,7 +2409,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -2145,7 +2433,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:02.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -2166,7 +2457,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:04.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -2201,7 +2495,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:04.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",
@@ -2222,7 +2519,10 @@
     },
     {
         "@timestamp": "2018-05-09T10:59:04.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "kibana.log",
         "event.module": "kibana",
         "fileset.name": "log",

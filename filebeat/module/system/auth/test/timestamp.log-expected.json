@@ -1,9 +1,15 @@
 [
     {
         "@timestamp": "2019-06-14T10:40:20.912Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.auth",
         "event.module": "system",
+=======
+        "event.dataset": "system.auth",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "auth",
         "host.hostname": "localhost",
         "input.type": "log",
@@ -15,9 +21,15 @@
     },
     {
         "@timestamp": "2019-06-14T11:31:15.412Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
         "event.dataset": "system.auth",
         "event.module": "system",
+=======
+        "event.dataset": "system.auth",
+        "event.module": "system",
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "auth",
         "host.hostname": "localhost",
         "input.type": "log",

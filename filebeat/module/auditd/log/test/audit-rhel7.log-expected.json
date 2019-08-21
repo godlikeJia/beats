@@ -6,7 +6,10 @@
         "auditd.log.sequence": 7798,
         "auditd.log.subj": "system_u:system_r:auditd_t:s0",
         "auditd.log.ver": "2.4.1",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "daemon_start",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -23,7 +26,10 @@
         "auditd.log.sequence": 6,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_start",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -44,7 +50,10 @@
         "auditd.log.sequence": 7,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "system_boot",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -64,7 +73,10 @@
         "auditd.log.sequence": 8,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_start",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -85,7 +97,10 @@
         "auditd.log.sequence": 9,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_start",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -106,7 +121,10 @@
         "auditd.log.sequence": 10,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_start",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -127,7 +145,10 @@
         "auditd.log.sequence": 11,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_start",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -148,7 +169,10 @@
         "auditd.log.sequence": 12,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_start",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -169,7 +193,10 @@
         "auditd.log.sequence": 13,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_start",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -190,7 +217,10 @@
         "auditd.log.sequence": 14,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_start",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -211,7 +241,10 @@
         "auditd.log.sequence": 15,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_start",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -232,7 +265,10 @@
         "auditd.log.sequence": 16,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_stop",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -254,7 +290,10 @@
         "auditd.log.family": "2",
         "auditd.log.sequence": 17,
         "auditd.log.table": "filter",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -277,7 +316,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "313",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -306,7 +348,10 @@
         "auditd.log.family": "2",
         "auditd.log.sequence": 18,
         "auditd.log.table": "raw",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -329,7 +374,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "313",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -358,7 +406,10 @@
         "auditd.log.family": "2",
         "auditd.log.sequence": 19,
         "auditd.log.table": "security",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -381,7 +432,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "313",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -410,7 +464,10 @@
         "auditd.log.family": "2",
         "auditd.log.sequence": 20,
         "auditd.log.table": "mangle",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -433,7 +490,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "313",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -462,7 +522,10 @@
         "auditd.log.family": "2",
         "auditd.log.sequence": 21,
         "auditd.log.table": "nat",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -485,7 +548,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "313",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -513,7 +579,10 @@
         "auditd.log.sequence": 22,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_start",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -534,7 +603,10 @@
         "auditd.log.sequence": 23,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_start",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -555,7 +627,10 @@
         "auditd.log.sequence": 24,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_start",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -576,7 +651,10 @@
         "auditd.log.sequence": 25,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_start",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -597,7 +675,10 @@
         "auditd.log.sequence": 26,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_start",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -619,7 +700,10 @@
         "auditd.log.family": "10",
         "auditd.log.sequence": 27,
         "auditd.log.table": "filter",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -642,7 +726,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "313",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -670,7 +757,10 @@
         "auditd.log.sequence": 28,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_start",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -691,7 +781,10 @@
         "auditd.log.sequence": 29,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_start",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -712,7 +805,10 @@
         "auditd.log.sequence": 30,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_start",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -733,7 +829,10 @@
         "auditd.log.sequence": 31,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_stop",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -755,7 +854,10 @@
         "auditd.log.family": "10",
         "auditd.log.sequence": 32,
         "auditd.log.table": "raw",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -778,7 +880,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "313",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -806,7 +911,10 @@
         "auditd.log.sequence": 33,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_start",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -828,7 +936,10 @@
         "auditd.log.family": "10",
         "auditd.log.sequence": 34,
         "auditd.log.table": "security",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -851,7 +962,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "313",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -880,7 +994,10 @@
         "auditd.log.family": "10",
         "auditd.log.sequence": 35,
         "auditd.log.table": "mangle",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -903,7 +1020,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "313",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -931,7 +1051,10 @@
         "auditd.log.sequence": 36,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_start",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -952,7 +1075,10 @@
         "auditd.log.sequence": 37,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_stop",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -973,7 +1099,10 @@
         "auditd.log.sequence": 38,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_start",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -994,7 +1123,10 @@
         "auditd.log.sequence": 39,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_stop",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1015,7 +1147,10 @@
         "auditd.log.sequence": 40,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_start",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1036,7 +1171,10 @@
         "auditd.log.sequence": 41,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_stop",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1057,7 +1195,10 @@
         "auditd.log.sequence": 42,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_start",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1078,7 +1219,10 @@
         "auditd.log.sequence": 43,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_start",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1100,7 +1244,10 @@
         "auditd.log.family": "10",
         "auditd.log.sequence": 44,
         "auditd.log.table": "nat",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1123,7 +1270,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "313",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1151,7 +1301,10 @@
         "auditd.log.sequence": 45,
         "auditd.log.ses": "4294967295",
         "auditd.log.subj": "system_u:system_r:init_t:s0",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "service_start",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1173,7 +1326,10 @@
         "auditd.log.family": "2",
         "auditd.log.sequence": 46,
         "auditd.log.table": "nat",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1196,7 +1352,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "54",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1225,7 +1384,10 @@
         "auditd.log.family": "2",
         "auditd.log.sequence": 47,
         "auditd.log.table": "nat",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1248,7 +1410,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "54",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1277,7 +1442,10 @@
         "auditd.log.family": "2",
         "auditd.log.sequence": 48,
         "auditd.log.table": "mangle",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1300,7 +1468,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "54",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1329,7 +1500,10 @@
         "auditd.log.family": "2",
         "auditd.log.sequence": 49,
         "auditd.log.table": "mangle",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1352,7 +1526,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "54",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1381,7 +1558,10 @@
         "auditd.log.family": "2",
         "auditd.log.sequence": 50,
         "auditd.log.table": "security",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1404,7 +1584,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "54",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1433,7 +1616,10 @@
         "auditd.log.family": "2",
         "auditd.log.sequence": 51,
         "auditd.log.table": "security",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1456,7 +1642,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "54",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1485,7 +1674,10 @@
         "auditd.log.family": "2",
         "auditd.log.sequence": 52,
         "auditd.log.table": "raw",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1508,7 +1700,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "54",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1537,7 +1732,10 @@
         "auditd.log.family": "2",
         "auditd.log.sequence": 53,
         "auditd.log.table": "raw",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1560,7 +1758,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "54",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1589,7 +1790,10 @@
         "auditd.log.family": "2",
         "auditd.log.sequence": 54,
         "auditd.log.table": "filter",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1612,7 +1816,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "54",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1641,7 +1848,10 @@
         "auditd.log.family": "2",
         "auditd.log.sequence": 55,
         "auditd.log.table": "filter",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1664,7 +1874,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "54",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1693,7 +1906,10 @@
         "auditd.log.family": "10",
         "auditd.log.sequence": 56,
         "auditd.log.table": "nat",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1716,7 +1932,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "54",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1745,7 +1964,10 @@
         "auditd.log.family": "10",
         "auditd.log.sequence": 57,
         "auditd.log.table": "nat",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1768,7 +1990,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "54",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1797,7 +2022,10 @@
         "auditd.log.family": "10",
         "auditd.log.sequence": 58,
         "auditd.log.table": "mangle",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1820,7 +2048,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "54",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1849,7 +2080,10 @@
         "auditd.log.family": "10",
         "auditd.log.sequence": 59,
         "auditd.log.table": "mangle",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1872,7 +2106,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "54",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1901,7 +2138,10 @@
         "auditd.log.family": "10",
         "auditd.log.sequence": 60,
         "auditd.log.table": "security",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1924,7 +2164,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "54",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1953,7 +2196,10 @@
         "auditd.log.family": "10",
         "auditd.log.sequence": 61,
         "auditd.log.table": "security",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -1976,7 +2222,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "54",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -2005,7 +2254,10 @@
         "auditd.log.family": "10",
         "auditd.log.sequence": 62,
         "auditd.log.table": "raw",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -2028,7 +2280,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "54",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -2057,7 +2312,10 @@
         "auditd.log.family": "10",
         "auditd.log.sequence": 63,
         "auditd.log.table": "raw",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -2080,7 +2338,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "54",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -2109,7 +2370,10 @@
         "auditd.log.family": "10",
         "auditd.log.sequence": 64,
         "auditd.log.table": "filter",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -2132,7 +2396,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "54",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -2161,7 +2428,10 @@
         "auditd.log.family": "10",
         "auditd.log.sequence": 65,
         "auditd.log.table": "filter",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -2184,7 +2454,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "54",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -2213,7 +2486,10 @@
         "auditd.log.family": "2",
         "auditd.log.sequence": 66,
         "auditd.log.table": "mangle",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -2236,7 +2512,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "54",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -2265,7 +2544,10 @@
         "auditd.log.family": "2",
         "auditd.log.sequence": 67,
         "auditd.log.table": "mangle",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -2288,7 +2570,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "54",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -2317,7 +2602,10 @@
         "auditd.log.family": "2",
         "auditd.log.sequence": 68,
         "auditd.log.table": "mangle",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -2340,7 +2628,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "54",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -2369,7 +2660,10 @@
         "auditd.log.family": "2",
         "auditd.log.sequence": 69,
         "auditd.log.table": "mangle",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -2392,7 +2686,10 @@
         "auditd.log.success": "yes",
         "auditd.log.syscall": "54",
         "auditd.log.tty": "(none)",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "syscall",
         "event.dataset": "auditd.log",
         "event.module": "auditd",
@@ -2421,7 +2718,10 @@
         "auditd.log.family": "2",
         "auditd.log.sequence": 70,
         "auditd.log.table": "mangle",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "netfilter_cfg",
         "event.dataset": "auditd.log",
         "event.module": "auditd",

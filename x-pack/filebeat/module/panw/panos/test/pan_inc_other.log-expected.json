@@ -7,6 +7,11 @@
         "client.port": 59309,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -18,7 +23,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -27,6 +35,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:56.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,

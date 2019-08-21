@@ -12,6 +12,7 @@ other Beats should be migrated.
 
 Note: This changelog was only started after the 6.3 release.
 
+<<<<<<< HEAD
 === Beats version 7.2.0
 https://github.com/elastic/beats/compare/v7.1.1..v7.2.0[Check the HEAD diff]
 
@@ -35,6 +36,8 @@ https://github.com/elastic/beats/compare/v7.1.1..v7.2.0[Check the HEAD diff]
 - Add new option `IgnoreAllErrors` to `libbeat.common.schema` for skipping fields that failed while converting. {pull}12089[12089]
 - Deprecate setup cmds for `template` and `ilm-policy`. Add new setup cmd for `index-management`. {pull}12132[12132]
 
+=======
+>>>>>>> upstream/master
 === Beats version 7.1.1
 https://github.com/elastic/beats/compare/v7.1.0..v7.1.1[Check the HEAD diff]
 

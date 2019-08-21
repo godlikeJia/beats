@@ -1,6 +1,6 @@
 
 ////
-This file is generated! See _meta/fields.yml and scripts/generate_field_docs.py
+This file is generated! See _meta/fields.yml and scripts/generate_fields_docs.py
 ////
 
 [[exported-fields]]
@@ -12,7 +12,7 @@ This file is generated! See _meta/fields.yml and scripts/generate_field_docs.py
 This document describes the fields that are exported by Heartbeat. They are
 grouped in the following categories:
 
-* <<exported-fields-beat>>
+* <<exported-fields-beat-common>>
 * <<exported-fields-cloud>>
 * <<exported-fields-common>>
 * <<exported-fields-docker-processor>>
@@ -30,7 +30,7 @@ grouped in the following categories:
 * <<exported-fields-tls>>
 
 --
-[[exported-fields-beat]]
+[[exported-fields-beat-common]]
 == Beat fields
 
 Contains common beat fields available in all event types.
@@ -120,9 +120,25 @@ Metadata from cloud providers added by the add_cloud_metadata processor.
 +
 --
 Name of the project in Google Cloud.
+<<<<<<< HEAD
 
 
 example: project-x
+=======
+
+
+example: project-x
+
+--
+
+*`cloud.image.id`*::
++
+--
+Image ID for the cloud instance.
+
+
+example: ami-abcd1234
+>>>>>>> upstream/master
 
 --
 
@@ -478,7 +494,7 @@ example: 6.0.0-rc2
 === client
 
 A client is defined as the initiator of a network connection for events regarding sessions, connections, or bidirectional flow records.
-For TCP events, the client is the initiator of the TCP connection that sends the SYN packet(s). For other protocols, the client is generally the initiator or requestor in the network transaction. Some systems use the term "originator" to refer the client in TCP connections. The client fields describe details about the system acting as the client in the network event. Client fields are usually populated in conjunction with server fields.  Client fields are generally not populated for packet-level events.
+For TCP events, the client is the initiator of the TCP connection that sends the SYN packet(s). For other protocols, the client is generally the initiator or requestor in the network transaction. Some systems use the term "originator" to refer the client in TCP connections. The client fields describe details about the system acting as the client in the network event. Client fields are usually populated in conjunction with server fields. Client fields are generally not populated for packet-level events.
 Client / server representations can add semantic context to an exchange, which is helpful to visualize the data in certain situations. If your context falls in that category, you should still ensure that source and destination are filled appropriately.
 
 
@@ -638,6 +654,13 @@ example: 12
 +
 --
 Port of the client.
+<<<<<<< HEAD
+=======
+
+type: long
+
+format: string
+>>>>>>> upstream/master
 
 type: long
 
@@ -1019,6 +1042,13 @@ example: 12
 +
 --
 Port of the destination.
+<<<<<<< HEAD
+=======
+
+type: long
+
+format: string
+>>>>>>> upstream/master
 
 type: long
 
@@ -1320,6 +1350,11 @@ type: long
 
 example: 7
 
+<<<<<<< HEAD
+=======
+format: string
+
+>>>>>>> upstream/master
 --
 
 *`event.start`*::
@@ -2023,6 +2058,11 @@ type: long
 
 example: 404
 
+<<<<<<< HEAD
+=======
+format: string
+
+>>>>>>> upstream/master
 --
 
 *`http.version`*::
@@ -2585,6 +2625,15 @@ example: ssh
 +
 --
 Process id.
+<<<<<<< HEAD
+=======
+
+type: long
+
+example: 4242
+
+format: string
+>>>>>>> upstream/master
 
 type: long
 
@@ -2593,7 +2642,17 @@ type: long
 *`process.ppid`*::
 +
 --
+<<<<<<< HEAD
 Process parent id.
+=======
+Parent process' pid.
+
+type: long
+
+example: 4241
+
+format: string
+>>>>>>> upstream/master
 
 type: long
 
@@ -2619,6 +2678,11 @@ type: long
 
 example: 4242
 
+<<<<<<< HEAD
+=======
+format: string
+
+>>>>>>> upstream/master
 --
 
 *`process.title`*::
@@ -2823,6 +2887,13 @@ example: 12
 +
 --
 Port of the server.
+<<<<<<< HEAD
+=======
+
+type: long
+
+format: string
+>>>>>>> upstream/master
 
 type: long
 
@@ -3139,6 +3210,13 @@ example: 12
 +
 --
 Port of the source.
+<<<<<<< HEAD
+=======
+
+type: long
+
+format: string
+>>>>>>> upstream/master
 
 type: long
 
@@ -3291,6 +3369,11 @@ type: long
 
 example: 443
 
+<<<<<<< HEAD
+=======
+format: string
+
+>>>>>>> upstream/master
 --
 
 *`url.query`*::
@@ -3856,7 +3939,7 @@ type: keyword
 
 --
 
-*`kubernetes.labels`*::
+*`kubernetes.labels.*`*::
 +
 --
 Kubernetes labels map
@@ -3866,7 +3949,7 @@ type: object
 
 --
 
-*`kubernetes.annotations`*::
+*`kubernetes.annotations.*`*::
 +
 --
 Kubernetes annotations map

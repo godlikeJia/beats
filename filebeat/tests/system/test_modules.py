@@ -194,6 +194,7 @@ class Test(BaseTest):
             len(expected), len(objects))
 
         for ev in expected:
+            clean_keys(ev)
             found = False
             for obj in objects:
 
@@ -216,6 +217,11 @@ def clean_keys(obj):
     time_keys = ["event.created"]
     # source path and agent.version can be different for each run
     other_keys = ["log.file.path", "agent.version"]
+<<<<<<< HEAD
+=======
+    # ECS versions change for any ECS release, large or small
+    ecs_key = ["ecs.version"]
+>>>>>>> upstream/master
     # datasets for which @timestamp is removed due to date missing
     remove_timestamp = {"icinga.startup", "redis.log", "haproxy.log", "system.auth", "system.syslog"}
     # dataset + log file pairs for which @timestamp is kept as an exception from above
@@ -229,7 +235,11 @@ def clean_keys(obj):
     if "log.file.path" in obj:
         filename = os.path.basename(obj["log.file.path"]).lower()
 
+<<<<<<< HEAD
     for key in host_keys + time_keys + other_keys:
+=======
+    for key in host_keys + time_keys + other_keys + ecs_key:
+>>>>>>> upstream/master
         delete_key(obj, key)
 
     # Most logs from syslog need their timestamp removed because it doesn't

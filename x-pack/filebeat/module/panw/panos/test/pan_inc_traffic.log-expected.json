@@ -7,6 +7,11 @@
         "client.port": 59324,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -18,7 +23,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -27,6 +35,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:59.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -81,6 +93,11 @@
         "client.port": 54448,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 76,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -89,7 +106,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -98,6 +118,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:58.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -152,6 +176,11 @@
         "client.port": 53121,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 76,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -160,7 +189,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -169,6 +201,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:58.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -223,6 +259,11 @@
         "client.port": 59323,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -234,7 +275,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -243,6 +287,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:58.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -297,6 +345,11 @@
         "client.port": 59322,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -308,7 +361,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -317,6 +373,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:58.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -371,6 +431,11 @@
         "client.port": 55766,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 74,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -379,7 +444,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -388,6 +456,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:58.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -442,6 +514,11 @@
         "client.port": 55072,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 74,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -450,7 +527,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -459,6 +539,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:58.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -513,6 +597,11 @@
         "client.port": 59207,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 549,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -524,7 +613,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 6,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -533,6 +625,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:27.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -587,6 +683,11 @@
         "client.port": 59209,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 549,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -598,7 +699,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 6,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -607,6 +711,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:28.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -661,6 +769,11 @@
         "client.port": 59208,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 549,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -672,7 +785,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 6,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -681,6 +797,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:27.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -735,6 +855,11 @@
         "client.port": 59318,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -746,7 +871,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -755,6 +883,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:58.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -809,6 +941,11 @@
         "client.port": 59317,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -820,7 +957,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -829,6 +969,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:57.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -883,6 +1027,11 @@
         "client.port": 59316,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -894,7 +1043,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -903,6 +1055,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:57.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -957,6 +1113,11 @@
         "client.port": 59315,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -968,7 +1129,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -977,6 +1141,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:57.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1031,6 +1199,11 @@
         "client.port": 59206,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 549,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -1042,7 +1215,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 6,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -1051,6 +1227,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:27.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1105,6 +1285,11 @@
         "client.port": 59205,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 549,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -1116,7 +1301,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 6,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -1125,6 +1313,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:26.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1179,6 +1371,11 @@
         "client.port": 56858,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 1359,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -1190,7 +1387,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 18,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -1199,6 +1399,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:29:54.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1253,6 +1457,11 @@
         "client.port": 59314,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -1264,7 +1473,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -1273,6 +1485,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:56.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1327,6 +1543,11 @@
         "client.port": 59313,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -1338,7 +1559,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -1347,6 +1571,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:56.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1401,6 +1629,11 @@
         "client.port": 52139,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 69,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1409,7 +1642,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -1418,6 +1654,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:56.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1472,6 +1712,11 @@
         "client.port": 60592,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 69,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1480,7 +1725,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -1489,6 +1737,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:56.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1543,6 +1795,11 @@
         "client.port": 59309,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -1554,7 +1811,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -1563,6 +1823,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:56.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1617,6 +1881,11 @@
         "client.port": 57322,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 66,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1625,7 +1894,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -1634,6 +1906,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:26.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1688,6 +1964,11 @@
         "client.port": 59204,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 549,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -1699,7 +1980,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 6,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -1708,6 +1992,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:26.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1762,6 +2050,11 @@
         "client.port": 59203,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 549,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -1773,7 +2066,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 6,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -1782,6 +2078,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:26.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1836,6 +2136,11 @@
         "client.port": 59305,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -1847,7 +2152,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -1856,6 +2164,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:56.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1910,6 +2222,11 @@
         "client.port": 64005,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 69,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1918,7 +2235,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -1927,6 +2247,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:55.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -1981,6 +2305,11 @@
         "client.port": 58768,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 69,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -1989,7 +2318,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -1998,6 +2330,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:55.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2052,6 +2388,11 @@
         "client.port": 47752,
         "client.user.name": "crusher",
         "destination.address": "98.149.55.63",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 20001,
+        "destination.as.organization.name": "Time Warner Cable Internet LLC",
+>>>>>>> upstream/master
         "destination.bytes": 504,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -2060,7 +2401,10 @@
         "destination.ip": "98.149.55.63",
         "destination.packets": 8,
         "destination.port": 13069,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -2069,6 +2413,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:37:50.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2123,6 +2471,11 @@
         "client.port": 59304,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -2134,7 +2487,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -2143,6 +2499,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:55.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2197,6 +2557,11 @@
         "client.port": 54533,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 71,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -2205,7 +2570,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -2214,6 +2582,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:55.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2268,6 +2640,11 @@
         "client.port": 59201,
         "client.user.name": "crusher",
         "destination.address": "212.48.10.58",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 8660,
+        "destination.as.organization.name": "Italiaonline S.p.A.",
+>>>>>>> upstream/master
         "destination.bytes": 837,
         "destination.geo.city_name": "Milan",
         "destination.geo.continent_name": "Europe",
@@ -2279,7 +2656,10 @@
         "destination.ip": "212.48.10.58",
         "destination.packets": 10,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -2288,6 +2668,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:24.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2342,6 +2726,11 @@
         "client.port": 59303,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -2353,7 +2742,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -2362,6 +2754,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:55.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2416,6 +2812,11 @@
         "client.port": 50876,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 76,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -2424,7 +2825,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -2433,6 +2837,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:54.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2487,6 +2895,11 @@
         "client.port": 57657,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 76,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -2495,7 +2908,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -2504,6 +2920,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:54.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2558,6 +2978,11 @@
         "client.port": 59302,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -2569,7 +2994,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -2578,6 +3006,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:54.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2632,6 +3064,11 @@
         "client.port": 59301,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -2643,7 +3080,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -2652,6 +3092,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:54.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2706,6 +3150,11 @@
         "client.port": 64844,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 80,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -2714,7 +3163,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -2723,6 +3175,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:54.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2777,6 +3233,11 @@
         "client.port": 52257,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 80,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -2785,7 +3246,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -2794,6 +3258,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:54.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2847,6 +3315,11 @@
         "client.packets": 1,
         "client.port": 38796,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 95,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -2855,7 +3328,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -2864,6 +3340,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:24.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "log.offset": 14217,
@@ -2916,6 +3396,11 @@
         "client.port": 59200,
         "client.user.name": "crusher",
         "destination.address": "62.211.68.12",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 3269,
+        "destination.as.organization.name": "Telecom Italia",
+>>>>>>> upstream/master
         "destination.bytes": 597,
         "destination.geo.city_name": "Latina",
         "destination.geo.continent_name": "Europe",
@@ -2927,7 +3412,10 @@
         "destination.ip": "62.211.68.12",
         "destination.packets": 6,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -2936,6 +3424,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:23.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -2989,6 +3481,11 @@
         "client.packets": 7,
         "client.port": 48412,
         "destination.address": "50.19.102.116",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.bytes": 804,
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
@@ -3000,7 +3497,10 @@
         "destination.ip": "50.19.102.116",
         "destination.packets": 10,
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -3009,6 +3509,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:24.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "log.offset": 14933,
@@ -3061,6 +3565,11 @@
         "client.port": 47752,
         "client.user.name": "crusher",
         "destination.address": "65.55.223.19",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 8075,
+        "destination.as.organization.name": "Microsoft Corporation",
+>>>>>>> upstream/master
         "destination.bytes": 187,
         "destination.geo.city_name": "Washington",
         "destination.geo.continent_name": "North America",
@@ -3072,7 +3581,10 @@
         "destination.ip": "65.55.223.19",
         "destination.packets": 1,
         "destination.port": 40026,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -3081,6 +3593,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:24.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -3135,6 +3651,11 @@
         "client.port": 47752,
         "client.user.name": "crusher",
         "destination.address": "65.55.223.24",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 8075,
+        "destination.as.organization.name": "Microsoft Corporation",
+>>>>>>> upstream/master
         "destination.bytes": 76,
         "destination.geo.city_name": "Washington",
         "destination.geo.continent_name": "North America",
@@ -3146,7 +3667,10 @@
         "destination.ip": "65.55.223.24",
         "destination.packets": 1,
         "destination.port": 40029,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -3155,6 +3679,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:24.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -3208,6 +3736,11 @@
         "client.packets": 1,
         "client.port": 52189,
         "destination.address": "8.8.8.8",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.bytes": 86,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -3216,7 +3749,10 @@
         "destination.ip": "8.8.8.8",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -3225,6 +3761,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:24.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "log.offset": 16061,
@@ -3277,6 +3817,11 @@
         "client.port": 59300,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -3288,7 +3833,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -3297,6 +3845,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:54.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -3351,6 +3903,11 @@
         "client.port": 54414,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 73,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -3359,7 +3916,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -3368,6 +3928,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:53.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -3422,6 +3986,11 @@
         "client.port": 59299,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -3433,7 +4002,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -3442,6 +4014,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:53.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -3496,6 +4072,11 @@
         "client.port": 60399,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 80,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -3504,7 +4085,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -3513,6 +4097,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:53.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -3567,6 +4155,11 @@
         "client.port": 59626,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 166,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -3575,7 +4168,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 2,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -3584,6 +4180,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:22.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -3638,6 +4238,11 @@
         "client.port": 51542,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 75,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -3646,7 +4251,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -3655,6 +4263,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:23.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -3709,6 +4321,11 @@
         "client.port": 54182,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 75,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -3717,7 +4334,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -3726,6 +4346,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:23.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -3780,6 +4404,11 @@
         "client.port": 59199,
         "client.user.name": "crusher",
         "destination.address": "62.211.68.12",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 3269,
+        "destination.as.organization.name": "Telecom Italia",
+>>>>>>> upstream/master
         "destination.bytes": 594,
         "destination.geo.city_name": "Latina",
         "destination.geo.continent_name": "Europe",
@@ -3791,7 +4420,10 @@
         "destination.ip": "62.211.68.12",
         "destination.packets": 6,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -3800,6 +4432,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:23.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -3854,6 +4490,11 @@
         "client.port": 59198,
         "client.user.name": "crusher",
         "destination.address": "212.48.10.58",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 8660,
+        "destination.as.organization.name": "Italiaonline S.p.A.",
+>>>>>>> upstream/master
         "destination.bytes": 1005,
         "destination.geo.city_name": "Milan",
         "destination.geo.continent_name": "Europe",
@@ -3865,7 +4506,10 @@
         "destination.ip": "212.48.10.58",
         "destination.packets": 12,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -3874,6 +4518,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:21.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -3928,6 +4576,11 @@
         "client.port": 56856,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 1363,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -3939,7 +4592,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 18,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -3948,6 +4604,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:29:51.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4002,6 +4662,11 @@
         "client.port": 52489,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 80,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4010,7 +4675,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -4019,6 +4687,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:53.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4073,6 +4745,11 @@
         "client.port": 59298,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -4084,7 +4761,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -4093,6 +4773,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:53.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4147,6 +4831,11 @@
         "client.port": 60185,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 76,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4155,7 +4844,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -4164,6 +4856,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:52.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4218,6 +4914,11 @@
         "client.port": 51817,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 76,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4226,7 +4927,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -4235,6 +4939,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:52.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4289,6 +4997,11 @@
         "client.port": 47752,
         "client.user.name": "crusher",
         "destination.address": "65.55.223.31",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 8075,
+        "destination.as.organization.name": "Microsoft Corporation",
+>>>>>>> upstream/master
         "destination.bytes": 186,
         "destination.geo.city_name": "Washington",
         "destination.geo.continent_name": "North America",
@@ -4300,7 +5013,10 @@
         "destination.ip": "65.55.223.31",
         "destination.packets": 1,
         "destination.port": 40043,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -4309,6 +5025,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:52.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4363,6 +5083,11 @@
         "client.port": 59297,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -4374,7 +5099,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -4383,6 +5111,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:52.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4437,6 +5169,11 @@
         "client.port": 52537,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 82,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4445,7 +5182,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -4454,6 +5194,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:52.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4508,6 +5252,11 @@
         "client.port": 53155,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 82,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4516,7 +5265,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -4525,6 +5277,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:52.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4579,6 +5335,11 @@
         "client.port": 59197,
         "client.user.name": "crusher",
         "destination.address": "62.211.68.12",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 3269,
+        "destination.as.organization.name": "Telecom Italia",
+>>>>>>> upstream/master
         "destination.bytes": 581,
         "destination.geo.city_name": "Latina",
         "destination.geo.continent_name": "Europe",
@@ -4590,7 +5351,10 @@
         "destination.ip": "62.211.68.12",
         "destination.packets": 6,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -4599,6 +5363,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:21.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4653,6 +5421,11 @@
         "client.port": 56995,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 88,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4661,7 +5434,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -4670,6 +5446,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:22.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4724,6 +5504,11 @@
         "client.port": 59069,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 76,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4732,7 +5517,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -4741,6 +5529,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:51.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4795,6 +5587,11 @@
         "client.port": 55697,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 76,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4803,7 +5600,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -4812,6 +5612,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:51.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4866,6 +5670,11 @@
         "client.port": 59295,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -4877,7 +5686,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -4886,6 +5698,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:51.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -4940,6 +5756,11 @@
         "client.port": 59196,
         "client.user.name": "crusher",
         "destination.address": "62.211.68.12",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 3269,
+        "destination.as.organization.name": "Telecom Italia",
+>>>>>>> upstream/master
         "destination.bytes": 578,
         "destination.geo.city_name": "Latina",
         "destination.geo.continent_name": "Europe",
@@ -4951,7 +5772,10 @@
         "destination.ip": "62.211.68.12",
         "destination.packets": 6,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -4960,6 +5784,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:20.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5014,6 +5842,11 @@
         "client.port": 59291,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -5025,7 +5858,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -5034,6 +5870,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:51.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5088,6 +5928,11 @@
         "client.port": 52858,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 77,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -5096,7 +5941,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -5105,6 +5953,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:50.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5159,6 +6011,11 @@
         "client.port": 61383,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 77,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -5167,7 +6024,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -5176,6 +6036,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:50.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5230,6 +6094,11 @@
         "client.port": 59290,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -5241,7 +6110,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -5250,6 +6122,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:50.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5304,6 +6180,11 @@
         "client.port": 59195,
         "client.user.name": "crusher",
         "destination.address": "8.5.1.1",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 3356,
+        "destination.as.organization.name": "Level 3 Parent, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 1310,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -5312,7 +6193,10 @@
         "destination.ip": "8.5.1.1",
         "destination.packets": 17,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -5321,6 +6205,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:20.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5375,6 +6263,11 @@
         "client.port": 49812,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 83,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -5383,7 +6276,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -5392,6 +6288,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:50.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5446,6 +6346,11 @@
         "client.port": 50185,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 83,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -5454,7 +6359,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -5463,6 +6371,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:50.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5517,6 +6429,11 @@
         "client.port": 59286,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -5528,7 +6445,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -5537,6 +6457,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:50.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5595,7 +6519,10 @@
         "destination.ip": "192.168.0.1",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -5604,6 +6531,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:20.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5658,6 +6589,11 @@
         "client.port": 59194,
         "client.user.name": "crusher",
         "destination.address": "212.48.10.58",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 8660,
+        "destination.as.organization.name": "Italiaonline S.p.A.",
+>>>>>>> upstream/master
         "destination.bytes": 1033,
         "destination.geo.city_name": "Milan",
         "destination.geo.continent_name": "Europe",
@@ -5669,7 +6605,10 @@
         "destination.ip": "212.48.10.58",
         "destination.packets": 12,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -5678,6 +6617,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:17.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5732,6 +6675,11 @@
         "client.port": 59192,
         "client.user.name": "crusher",
         "destination.address": "212.48.10.58",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 8660,
+        "destination.as.organization.name": "Italiaonline S.p.A.",
+>>>>>>> upstream/master
         "destination.bytes": 981,
         "destination.geo.city_name": "Milan",
         "destination.geo.continent_name": "Europe",
@@ -5743,7 +6691,10 @@
         "destination.ip": "212.48.10.58",
         "destination.packets": 12,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -5752,6 +6703,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:13.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5810,7 +6765,10 @@
         "destination.ip": "192.168.0.1",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -5819,6 +6777,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:20.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5877,7 +6839,10 @@
         "destination.ip": "192.168.0.1",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -5886,6 +6851,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:20.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -5940,6 +6909,11 @@
         "client.port": 59282,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -5951,7 +6925,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -5960,6 +6937,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:49.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -6014,6 +6995,11 @@
         "client.port": 57846,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 71,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -6022,7 +7008,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -6031,6 +7020,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:49.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -6085,6 +7078,11 @@
         "client.port": 51008,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 71,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -6093,7 +7091,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -6102,6 +7103,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:49.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -6156,6 +7161,11 @@
         "client.port": 59281,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -6167,7 +7177,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -6176,6 +7189,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:49.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -6230,6 +7247,11 @@
         "client.port": 55252,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 80,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -6238,7 +7260,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -6247,6 +7272,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:49.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -6305,7 +7334,10 @@
         "destination.ip": "192.168.0.1",
         "destination.packets": 2,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -6314,6 +7346,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:18.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -6368,6 +7404,11 @@
         "client.port": 60989,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 80,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -6376,7 +7417,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -6385,6 +7429,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:49.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -6439,6 +7487,11 @@
         "client.port": 59280,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -6450,7 +7503,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -6459,6 +7515,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:48.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -6513,6 +7573,11 @@
         "client.port": 53766,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 81,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -6521,7 +7586,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -6530,6 +7598,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:48.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -6584,6 +7656,11 @@
         "client.port": 56032,
         "client.user.name": "crusher",
         "destination.address": "205.171.2.25",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 209,
+        "destination.as.organization.name": "Qwest Communications Company, LLC",
+>>>>>>> upstream/master
         "destination.bytes": 81,
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -6592,7 +7669,10 @@
         "destination.ip": "205.171.2.25",
         "destination.packets": 1,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -6601,6 +7681,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:48.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -6655,6 +7739,11 @@
         "client.port": 59193,
         "client.user.name": "crusher",
         "destination.address": "62.211.68.12",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 3269,
+        "destination.as.organization.name": "Telecom Italia",
+>>>>>>> upstream/master
         "destination.bytes": 581,
         "destination.geo.city_name": "Latina",
         "destination.geo.continent_name": "Europe",
@@ -6666,7 +7755,10 @@
         "destination.ip": "62.211.68.12",
         "destination.packets": 6,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -6675,6 +7767,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:17.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -6729,6 +7825,11 @@
         "client.port": 59279,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -6740,7 +7841,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -6749,6 +7853,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:48.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -6803,6 +7911,11 @@
         "client.port": 59278,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -6814,7 +7927,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -6823,6 +7939,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:48.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -6877,6 +7997,11 @@
         "client.port": 59277,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -6888,7 +8013,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -6897,6 +8025,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:47.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -6955,7 +8087,10 @@
         "destination.ip": "192.168.0.1",
         "destination.packets": 2,
         "destination.port": 53,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_terminated",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -6964,6 +8099,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:16.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -7018,6 +8157,11 @@
         "client.port": 59276,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 351,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -7029,7 +8173,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 3,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -7038,6 +8185,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:47.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -7092,6 +8243,11 @@
         "client.port": 59275,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 351,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -7103,7 +8259,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 3,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -7112,6 +8271,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:47.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,
@@ -7166,6 +8329,11 @@
         "client.port": 59274,
         "client.user.name": "crusher",
         "destination.address": "204.232.231.46",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 27357,
+        "destination.as.organization.name": "Rackspace Hosting",
+>>>>>>> upstream/master
         "destination.bytes": 78,
         "destination.geo.city_name": "Charlotte",
         "destination.geo.continent_name": "North America",
@@ -7177,7 +8345,10 @@
         "destination.ip": "204.232.231.46",
         "destination.packets": 1,
         "destination.port": 80,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "flow_started",
         "event.category": "network_traffic",
         "event.dataset": "panw.panos",
@@ -7186,6 +8357,10 @@
         "event.module": "panw",
         "event.outcome": "allow",
         "event.start": "2012-04-10T04:39:46.000Z",
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.captive_portal": true,

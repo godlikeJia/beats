@@ -1,7 +1,10 @@
 [
     {
         "@timestamp": "2019-04-03T11:13:15.076Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "rabbitmq.log",
         "event.module": "rabbitmq",
         "event.timezone": "+00:00",
@@ -15,7 +18,10 @@
     },
     {
         "@timestamp": "2019-04-03T11:13:15.510Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "rabbitmq.log",
         "event.module": "rabbitmq",
         "event.timezone": "+00:00",
@@ -32,7 +38,10 @@
     },
     {
         "@timestamp": "2019-04-03T11:13:15.512Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "rabbitmq.log",
         "event.module": "rabbitmq",
         "event.timezone": "+00:00",
@@ -49,7 +58,10 @@
     },
     {
         "@timestamp": "2019-04-12T10:00:53.458Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "rabbitmq.log",
         "event.module": "rabbitmq",
         "event.timezone": "+00:00",
@@ -63,7 +75,10 @@
     },
     {
         "@timestamp": "2019-04-12T10:00:53.550Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "rabbitmq.log",
         "event.module": "rabbitmq",
         "event.timezone": "+00:00",
@@ -80,7 +95,10 @@
     },
     {
         "@timestamp": "2019-04-12T10:00:53.550Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "rabbitmq.log",
         "event.module": "rabbitmq",
         "event.timezone": "+00:00",
@@ -94,7 +112,10 @@
     },
     {
         "@timestamp": "2019-04-12T10:00:54.553Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "rabbitmq.log",
         "event.module": "rabbitmq",
         "event.timezone": "+00:00",
@@ -108,7 +129,10 @@
     },
     {
         "@timestamp": "2019-04-12T10:00:54.555Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "rabbitmq.log",
         "event.module": "rabbitmq",
         "event.timezone": "+00:00",
@@ -122,7 +146,10 @@
     },
     {
         "@timestamp": "2019-04-12T10:00:54.567Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "rabbitmq.log",
         "event.module": "rabbitmq",
         "event.timezone": "+00:00",
@@ -136,7 +163,10 @@
     },
     {
         "@timestamp": "2019-04-12T10:00:54.567Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "rabbitmq.log",
         "event.module": "rabbitmq",
         "event.timezone": "+00:00",
@@ -150,7 +180,10 @@
     },
     {
         "@timestamp": "2019-04-12T10:00:54.568Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "rabbitmq.log",
         "event.module": "rabbitmq",
         "event.timezone": "+00:00",
@@ -164,7 +197,10 @@
     },
     {
         "@timestamp": "2019-04-12T10:00:54.569Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "rabbitmq.log",
         "event.module": "rabbitmq",
         "event.timezone": "+00:00",
@@ -178,7 +214,10 @@
     },
     {
         "@timestamp": "2019-04-12T10:00:54.579Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "rabbitmq.log",
         "event.module": "rabbitmq",
         "event.timezone": "+00:00",
@@ -192,7 +231,10 @@
     },
     {
         "@timestamp": "2019-04-12T10:00:54.588Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "rabbitmq.log",
         "event.module": "rabbitmq",
         "event.timezone": "+00:00",
@@ -206,7 +248,10 @@
     },
     {
         "@timestamp": "2019-04-12T10:00:54.589Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "rabbitmq.log",
         "event.module": "rabbitmq",
         "event.timezone": "+00:00",
@@ -220,7 +265,10 @@
     },
     {
         "@timestamp": "2019-04-12T10:00:54.598Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "rabbitmq.log",
         "event.module": "rabbitmq",
         "event.timezone": "+00:00",
@@ -234,7 +282,10 @@
     },
     {
         "@timestamp": "2019-04-12T10:00:54.606Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "rabbitmq.log",
         "event.module": "rabbitmq",
         "event.timezone": "+00:00",
@@ -248,7 +299,10 @@
     },
     {
         "@timestamp": "2019-04-12T10:00:54.615Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "rabbitmq.log",
         "event.module": "rabbitmq",
         "event.timezone": "+00:00",
@@ -262,7 +316,10 @@
     },
     {
         "@timestamp": "2019-04-12T10:00:54.615Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "rabbitmq.log",
         "event.module": "rabbitmq",
         "event.timezone": "+00:00",
@@ -279,7 +336,10 @@
     },
     {
         "@timestamp": "2019-04-12T10:01:01.031Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "rabbitmq.log",
         "event.module": "rabbitmq",
         "event.timezone": "+00:00",
@@ -296,7 +356,10 @@
     },
     {
         "@timestamp": "2019-04-12T10:11:15.094Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "rabbitmq.log",
         "event.module": "rabbitmq",
         "event.timezone": "+00:00",
@@ -310,7 +373,10 @@
     },
     {
         "@timestamp": "2019-04-12T10:11:15.101Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "rabbitmq.log",
         "event.module": "rabbitmq",
         "event.timezone": "+00:00",
@@ -324,7 +390,10 @@
     },
     {
         "@timestamp": "2019-04-12T10:19:14.450Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "rabbitmq.log",
         "event.module": "rabbitmq",
         "event.timezone": "+00:00",
@@ -341,7 +410,10 @@
     },
     {
         "@timestamp": "2019-04-12T10:19:14.450Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "rabbitmq.log",
         "event.module": "rabbitmq",
         "event.timezone": "+00:00",
@@ -355,7 +427,10 @@
     },
     {
         "@timestamp": "2019-04-12T10:19:14.451Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "rabbitmq.log",
         "event.module": "rabbitmq",
         "event.timezone": "+00:00",

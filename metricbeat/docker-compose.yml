@@ -10,7 +10,9 @@ services:
       - ${PWD}/..:/go/src/github.com/elastic/beats/
       # This is required to on-demand launching the rest on containers for tests & also docker module tests:
       - /var/run/docker.sock:/var/run/docker.sock
+    network_mode: host
     command: make
+<<<<<<< HEAD
     env_file:
       - ./module/aerospike/_meta/env
       - ./module/apache/_meta/env
@@ -44,6 +46,8 @@ services:
       - ./module/traefik/_meta/env
       - ./module/uwsgi/_meta/env
       - ./module/zookeeper/_meta/env
+=======
+>>>>>>> upstream/master
 
   # Modules
   aerospike:
@@ -59,9 +63,15 @@ services:
   apache_2_4_12:
     build:
       context: ./module/apache/_meta
-      dockerfile: Dockerfile.2.4.12
+      args:
+        APACHE_VERSION: 2.4.12
     ports:
       - 80
+
+  metricbeat:
+    build: ./module/beat/_meta
+    ports:
+      - 5066
 
   ceph:
     build: ./module/ceph/_meta

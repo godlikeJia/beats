@@ -4,19 +4,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 52984,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -71,19 +83,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 52983,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -138,19 +162,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 52986,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -205,19 +241,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 52985,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -272,19 +320,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 52987,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -339,19 +399,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 52988,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -406,19 +478,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 52990,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -473,19 +557,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 52989,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -540,19 +636,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 52992,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -607,19 +715,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 52991,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -674,19 +794,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 52994,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -741,19 +873,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 52993,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -808,19 +952,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 52995,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -875,19 +1031,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 52996,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -942,19 +1110,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 52997,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -1009,19 +1189,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 52998,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -1076,19 +1268,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 52999,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -1143,19 +1347,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53001,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -1210,19 +1426,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53002,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -1277,19 +1505,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53003,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -1344,19 +1584,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53004,
         "destination.address": "23.72.137.131",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 20940,
+        "destination.as.organization.name": "Akamai International B.V.",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "23.72.137.131",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -1411,19 +1663,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53000,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -1478,19 +1742,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53006,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -1545,19 +1821,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53007,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -1612,19 +1900,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53008,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -1679,19 +1979,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53010,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -1746,19 +2058,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53011,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -1813,19 +2137,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53012,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -1880,19 +2216,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53013,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -1947,19 +2295,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53014,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2014,19 +2374,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53022,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2081,19 +2453,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53023,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2148,19 +2532,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53024,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2215,19 +2611,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53025,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2282,19 +2690,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53026,
         "destination.address": "152.195.55.192",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15133,
+        "destination.as.organization.name": "MCI Communications Services, Inc. d/b/a Verizon Business",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "152.195.55.192",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2349,19 +2769,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53041,
         "destination.address": "151.101.2.2",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 54113,
+        "destination.as.organization.name": "Fastly",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "151.101.2.2",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2416,6 +2848,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53040,
         "destination.address": "54.192.7.152",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 16509,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Seattle",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -2425,13 +2862,20 @@
         "destination.geo.region_name": "Washington",
         "destination.ip": "54.192.7.152",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2486,6 +2930,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53093,
         "destination.address": "52.4.120.175",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -2495,13 +2944,20 @@
         "destination.geo.region_name": "Virginia",
         "destination.ip": "52.4.120.175",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2556,6 +3012,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53094,
         "destination.address": "52.4.120.175",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -2565,13 +3026,20 @@
         "destination.geo.region_name": "Virginia",
         "destination.ip": "52.4.120.175",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2626,6 +3094,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53095,
         "destination.address": "52.4.120.175",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -2635,13 +3108,20 @@
         "destination.geo.region_name": "Virginia",
         "destination.ip": "52.4.120.175",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2696,6 +3176,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53096,
         "destination.address": "52.4.120.175",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -2705,13 +3190,20 @@
         "destination.geo.region_name": "Virginia",
         "destination.ip": "52.4.120.175",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2766,6 +3258,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53097,
         "destination.address": "52.4.120.175",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -2775,13 +3272,20 @@
         "destination.geo.region_name": "Virginia",
         "destination.ip": "52.4.120.175",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2836,6 +3340,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53099,
         "destination.address": "52.4.120.175",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -2845,13 +3354,20 @@
         "destination.geo.region_name": "Virginia",
         "destination.ip": "52.4.120.175",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2906,6 +3422,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53100,
         "destination.address": "52.4.120.175",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -2915,13 +3436,20 @@
         "destination.geo.region_name": "Virginia",
         "destination.ip": "52.4.120.175",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -2976,6 +3504,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53101,
         "destination.address": "52.4.120.175",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -2985,13 +3518,20 @@
         "destination.geo.region_name": "Virginia",
         "destination.ip": "52.4.120.175",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -3046,6 +3586,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53104,
         "destination.address": "52.4.120.175",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -3055,13 +3600,20 @@
         "destination.geo.region_name": "Virginia",
         "destination.ip": "52.4.120.175",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -3116,6 +3668,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53107,
         "destination.address": "52.4.120.175",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -3125,13 +3682,20 @@
         "destination.geo.region_name": "Virginia",
         "destination.ip": "52.4.120.175",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -3186,6 +3750,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53108,
         "destination.address": "52.4.120.175",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -3195,13 +3764,20 @@
         "destination.geo.region_name": "Virginia",
         "destination.ip": "52.4.120.175",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -3256,6 +3832,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53109,
         "destination.address": "52.4.120.175",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -3265,13 +3846,20 @@
         "destination.geo.region_name": "Virginia",
         "destination.ip": "52.4.120.175",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -3326,6 +3914,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53118,
         "destination.address": "216.58.194.98",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 15169,
+        "destination.as.organization.name": "Google LLC",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Mountain View",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -3335,13 +3928,20 @@
         "destination.geo.region_name": "California",
         "destination.ip": "216.58.194.98",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -3396,19 +3996,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53126,
         "destination.address": "23.72.145.245",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 16625,
+        "destination.as.organization.name": "Akamai Technologies, Inc.",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "23.72.145.245",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -3463,19 +4075,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53127,
         "destination.address": "23.72.145.245",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 16625,
+        "destination.as.organization.name": "Akamai Technologies, Inc.",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "23.72.145.245",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -3530,19 +4154,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53128,
         "destination.address": "23.72.145.245",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 16625,
+        "destination.as.organization.name": "Akamai Technologies, Inc.",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "23.72.145.245",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -3597,19 +4233,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53129,
         "destination.address": "23.72.145.245",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 16625,
+        "destination.as.organization.name": "Akamai Technologies, Inc.",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "23.72.145.245",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -3664,19 +4312,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53130,
         "destination.address": "23.72.145.245",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 16625,
+        "destination.as.organization.name": "Akamai Technologies, Inc.",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "23.72.145.245",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -3731,19 +4391,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53131,
         "destination.address": "23.72.145.245",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 16625,
+        "destination.as.organization.name": "Akamai Technologies, Inc.",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "23.72.145.245",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -3798,19 +4470,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53132,
         "destination.address": "23.72.145.245",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 16625,
+        "destination.as.organization.name": "Akamai Technologies, Inc.",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "23.72.145.245",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -3865,19 +4549,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53133,
         "destination.address": "23.72.145.245",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 16625,
+        "destination.as.organization.name": "Akamai Technologies, Inc.",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "23.72.145.245",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -3932,19 +4628,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53134,
         "destination.address": "23.72.145.245",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 16625,
+        "destination.as.organization.name": "Akamai Technologies, Inc.",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "23.72.145.245",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -3999,19 +4707,31 @@
         "client.ip": "192.168.15.224",
         "client.port": 53135,
         "destination.address": "23.72.145.245",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 16625,
+        "destination.as.organization.name": "Akamai Technologies, Inc.",
+>>>>>>> upstream/master
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
         "destination.geo.location.lat": 37.751,
         "destination.geo.location.lon": -97.822,
         "destination.ip": "23.72.145.245",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -4066,6 +4786,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53152,
         "destination.address": "54.209.101.70",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4075,13 +4800,20 @@
         "destination.geo.region_name": "Virginia",
         "destination.ip": "54.209.101.70",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -4136,6 +4868,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53155,
         "destination.address": "54.209.101.70",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4145,13 +4882,20 @@
         "destination.geo.region_name": "Virginia",
         "destination.ip": "54.209.101.70",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -4206,6 +4950,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53158,
         "destination.address": "54.209.101.70",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4215,13 +4964,20 @@
         "destination.geo.region_name": "Virginia",
         "destination.ip": "54.209.101.70",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -4276,6 +5032,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53160,
         "destination.address": "54.209.101.70",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4285,13 +5046,20 @@
         "destination.geo.region_name": "Virginia",
         "destination.ip": "54.209.101.70",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -4346,6 +5114,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53161,
         "destination.address": "54.209.101.70",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4355,13 +5128,20 @@
         "destination.geo.region_name": "Virginia",
         "destination.ip": "54.209.101.70",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -4416,6 +5196,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53162,
         "destination.address": "54.209.101.70",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4425,13 +5210,20 @@
         "destination.geo.region_name": "Virginia",
         "destination.ip": "54.209.101.70",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -4486,6 +5278,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53163,
         "destination.address": "54.209.101.70",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4495,13 +5292,20 @@
         "destination.geo.region_name": "Virginia",
         "destination.ip": "54.209.101.70",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -4556,6 +5360,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53164,
         "destination.address": "54.209.101.70",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4565,13 +5374,20 @@
         "destination.geo.region_name": "Virginia",
         "destination.ip": "54.209.101.70",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -4626,6 +5442,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53165,
         "destination.address": "54.209.101.70",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4635,13 +5456,20 @@
         "destination.geo.region_name": "Virginia",
         "destination.ip": "54.209.101.70",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -4696,6 +5524,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53166,
         "destination.address": "54.209.101.70",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4705,13 +5538,20 @@
         "destination.geo.region_name": "Virginia",
         "destination.ip": "54.209.101.70",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -4766,6 +5606,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53167,
         "destination.address": "54.209.101.70",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4775,13 +5620,20 @@
         "destination.geo.region_name": "Virginia",
         "destination.ip": "54.209.101.70",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -4836,6 +5688,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53150,
         "destination.address": "54.209.101.70",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4845,13 +5702,20 @@
         "destination.geo.region_name": "Virginia",
         "destination.ip": "54.209.101.70",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -4906,6 +5770,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53185,
         "destination.address": "54.209.101.70",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4915,13 +5784,20 @@
         "destination.geo.region_name": "Virginia",
         "destination.ip": "54.209.101.70",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -4976,6 +5852,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53187,
         "destination.address": "54.209.101.70",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -4985,13 +5866,20 @@
         "destination.geo.region_name": "Virginia",
         "destination.ip": "54.209.101.70",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -5046,6 +5934,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53188,
         "destination.address": "54.209.101.70",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -5055,13 +5948,20 @@
         "destination.geo.region_name": "Virginia",
         "destination.ip": "54.209.101.70",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,
@@ -5116,6 +6016,11 @@
         "client.ip": "192.168.15.224",
         "client.port": 53178,
         "destination.address": "54.209.101.70",
+<<<<<<< HEAD
+=======
+        "destination.as.number": 14618,
+        "destination.as.organization.name": "Amazon.com, Inc.",
+>>>>>>> upstream/master
         "destination.geo.city_name": "Ashburn",
         "destination.geo.continent_name": "North America",
         "destination.geo.country_iso_code": "US",
@@ -5125,13 +6030,20 @@
         "destination.geo.region_name": "Virginia",
         "destination.ip": "54.209.101.70",
         "destination.port": 443,
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.action": "url_filtering",
         "event.category": "security_threat",
         "event.dataset": "panw.panos",
         "event.module": "panw",
         "event.outcome": "block-url",
         "event.severity": 5,
+<<<<<<< HEAD
+=======
+        "event.timezone": "+00:00",
+>>>>>>> upstream/master
         "fileset.name": "panos",
         "input.type": "log",
         "labels.nat_translated": true,

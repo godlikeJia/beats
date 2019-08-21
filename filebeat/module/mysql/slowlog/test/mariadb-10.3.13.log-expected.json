@@ -1,7 +1,10 @@
 [
     {
         "@timestamp": "2019-03-24T16:03:00.000Z",
+<<<<<<< HEAD
         "ecs.version": "1.0.0",
+=======
+>>>>>>> upstream/master
         "event.dataset": "mysql.slowlog",
         "event.duration": 2461578000,
         "event.module": "mysql",
